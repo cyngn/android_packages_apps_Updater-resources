@@ -1,0 +1,41 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">System updates</string>
+
+    <string name="user_agent" translatable="false">cm-fota</string>
+
+    <!-- Button states -->
+    <string name="check_button">Check for updates</string>
+    <string name="download_button">Download update</string>
+    <string name="cancel_button">Cancel update</string>
+    <string name="install_button">Install update</string>
+    <string name="retry_download_button">Retry Download</string>
+
+    <!-- Description states -->
+    <string name="status_check_for_updates">Press the button to check for updates</string>
+    <string name="status_no_update">No updates were available for your system at last check, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
+    <string name="status_download_available">A Cyanogen OS update is available for your device. Press the button to download the update.</string>
+    <string name="status_update_downloading">A Cyanogen OS update, <xliff:g id="version">%1$s</xliff:g>, is currently downloading on your device. You will be notified when it is ready for installation.</string>
+    <string name="status_update_ready">A Cyanogen OS update, <xliff:g id="version">%1$s</xliff:g>, is ready for installation on your device!</string>
+    <string name="status_failed_download">A Cyanogen OS update is available for your device, but failed to download. Press the button to retry.</string>
+    <!--<string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. You will be notified when it is ready for installation</string>-->
+
+    <!-- Update size -->
+    <string name="update_size">Update size: <xliff:g id="size">%1$s</xliff:g></string>
+
+    <!-- Title states -->
+    <string name="title_update_available">An update is available for your system</string>
+    <string name="title_no_update">Your system is up to date</string>
+    <string name="title_installing_update">Installing Update</string>
+
+    <!-- Notification -->
+    <string name="pending_update_notification">System update is ready</string>
+    <string name="pending_download_notification">System update is available</string>
+    <string name="update_downloading_notification">System update is downloading</string>
+
+    <!-- Update Recovery Dialog -->
+    <string name="update_recovery_title">Update Cyanogen recovery</string>
+    <string name="update_recovery_message">WARNING: Update Cyanogen recovery is disabled. This may cause issues with updating your device.\n\nPlease enable <i>Update Cyanogen recovery</i> in Developer options.</string>
+    <string name="ignore">Ignore</string>
+    <string name="fota_low_battery_title">Low battery</string>
+    <string name="fota_low_battery_message">The device\'s battery level is too low to complete the installation process. Charge your device to %1$d%% and try again.</string>
+</resources>
