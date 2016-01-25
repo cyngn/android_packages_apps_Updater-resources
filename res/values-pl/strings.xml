@@ -9,9 +9,7 @@
   <string name="download_button">Pobierz aktualizację</string>
   <string name="install_button">Zainstaluj aktualizację</string>
   <string name="nothing_found_desc">Nie znaleziono żadnych aktualizacji podczas ostatniego sprawdzenia, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">Aktualizacja systemu operacyjnego Cyanogen , <xliff:g id="version">%1$s</xliff:g>, jest dostępna dla twojego tabletu. Otrzymasz powiadomienie, gdy będzie gotowa do instalacji</string>
   <string name="generic_update_desc" product="default">Aktualizacja systemu operacyjnego Cyanogen, <xliff:g id="version">%1$s</xliff:g>, jest dostępna dla twojego telefonu. Otrzymasz powiadomienie, gdy będzie gotowa do instalacji</string>
-  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Otrzymasz powiadomienie, gdy będzie gotowa do instalacji</string>
   <string name="update_size">Rozmiar aktualizacji: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">Dostępna jest aktualizacja dla twojego systemu</string>
   <string name="pending_update_notification">Aktualizacja systemu jest gotowa</string>
@@ -19,4 +17,12 @@
   <string name="update_recovery_title">Aktualizuj recovery Cyanogen</string>
   <string name="update_recovery_message">UWAGA: Aktualizacja recovery Cyanogen jest wyłączona. Może to powodować problem z aktualizacją twojego urządzenia.\n\nProszę włączyć <i>Aktualizuj recovery Cyanogen</i> w Opcjach programistycznych.</string>
   <string name="ignore">Ignoruj</string>
+  <string name="retry_download_button">Ponów pobieranie</string>
+  <string name="status_download_available">Aktualizacja Cyanogen OS jest dostępna na Twoje urządzenie. Naciśnij przycisk, aby ją pobrać.</string>
+  <string name="status_update_ready">Aktualizacja Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, jest gotowa do instalacji na Twoim urządzeniu!</string>
+  <string name="status_failed_download">Aktualizacja Cyanogen OS jest dostępna na Twoje urządzenie, ale wystąpił błąd podczas pobierania. Naciśnij przycisk, aby ponowić próbę.</string>
+  <string name="title_installing_update">Instalowanie aktualizacji\u2026</string>
+  <string name="update_downloading_notification">Pobieranie aktualizacji systemu</string>
+  <string name="fota_low_battery_title">Niski poziom baterii</string>
+  <string name="fota_low_battery_message">Poziom naładowania baterii jest za niski, aby dokończyć proces instalacji. Naładuj baterię co najmniej do poziomu %1$d%% i spróbuj ponownie.</string>
 </resources>

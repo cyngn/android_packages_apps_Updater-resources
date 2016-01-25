@@ -9,9 +9,7 @@
   <string name="download_button">Ladda ned uppdatering</string>
   <string name="install_button">Installera uppdatering</string>
   <string name="nothing_found_desc">Inga uppdateringar fanns tillgängliga för ditt system vid senaste kontrollen, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">En Cyanogen OS-uppdatering, <xliff:g id="version">%1$s</xliff:g>, finns tillgänglig för din surfplatta. Du kommer att meddelas när den är redo för installation</string>
   <string name="generic_update_desc" product="default">En Cyanogen OS-uppdatering, <xliff:g id="version">%1$s</xliff:g>, finns tillgänglig för din telefon. Du kommer att meddelas när den är redo för installation</string>
-  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Du kommer att meddelas när den är klar för installation</string>
   <string name="update_size">Uppdateringsstorlek: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">En uppdatering finns tillgänglig för ditt system</string>
   <string name="pending_update_notification">Systemuppdatering redo</string>
@@ -19,4 +17,6 @@
   <string name="update_recovery_title">Uppdatering av Cyanogen Recovery</string>
   <string name="update_recovery_message">VARNING: Uppdatering av Cyanogen Recovery är inaktiverad. Detta kan orsaka problem vid uppdatering av din enhet.\n\nVänligen aktivera<i>Uppdatering av Cyanogen Recovery</i> i utvecklaralternativ.</string>
   <string name="ignore">Ignorera</string>
+  <string name="title_installing_update">Installerar uppdatering\u2026</string>
+  <string name="fota_low_battery_title">Låg batterinivå</string>
 </resources>

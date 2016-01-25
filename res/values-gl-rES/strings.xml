@@ -5,4 +5,12 @@
   <string name="default_header">O seu sistema está actualizado</string>
   <string name="default_desc">Prema o botón para comprobar se hai actualizacións</string>
   <string name="cancel_button">Cancelar a actualización</string>
+  <string name="retry_download_button">Volver tentar a descarga</string>
+  <string name="status_download_available">Está dispoñíbel unha actualización do SO CyanogenMod para o seu dispositivo. Prema o botón para descargar a actualización.</string>
+  <string name="status_update_ready">Unha actualización do SO Cyanogen, <xliff:g id="version">%1$s</xliff:g>, está dispoñíbel para se instalar no seu dispositivo!</string>
+  <string name="status_failed_download">Está dispoñíbel unha actualización do SO CyanogenMod para o seu dispositivo. Prema no botón para volvelo tentar.</string>
+  <string name="title_installing_update">Instalando a actualización\u2026</string>
+  <string name="update_downloading_notification">Estase a descargar unha actualización do sistema</string>
+  <string name="fota_low_battery_title">Batería baixa</string>
+  <string name="fota_low_battery_message">O nivel de batería do seu dispositivo é baixo de mais para completar o proceso de instalación. Cargue o seu dispositivo ata o %1$d%% e vólvao tentar.</string>
 </resources>

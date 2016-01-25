@@ -9,9 +9,7 @@
   <string name="download_button">ನವೀಕರಣೆ ಡೌನ್‍ಲೋಶ್ ಮಾಡಿ</string>
   <string name="install_button">ನವೀಕರಣೆ ಸ್ಥಾಪಿಸಿ</string>
   <string name="nothing_found_desc">ಕಳೆದ ಪರಿಶೀಲನೆಯಲ್ಲಿ ನಿಮ್ಮ ಸಿಸ್ಟಂಗಾಗಿ ಯಾವುದೇ ನವೀಕರಣೆಗಳು ಲಭ್ಯವಿರಲಿಲ್ಲ, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">ಒಂದು Cyanogen OS ನವೀಕರಣೆ, <xliff:g id="version">%1$s</xliff:g>, ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್‍ಗಾಗಿ ಲಭ್ಯವಿದೆ. ಇದು ಸ್ಥಾಪನೆಗಾಗಿ ಸಿದ್ಧವಾದಾಗ ನಿಮಗೆ ಸೂಚಿಸಲಾಗುತ್ತದೆ</string>
   <string name="generic_update_desc" product="default">ಒಂದು Cyanogen OS ನವೀಕರಣೆ, <xliff:g id="version">%1$s</xliff:g>, ನಿಮ್ಮ ಫೋನ್‍ಗಾಗಿ ಲಭ್ಯವಿದೆ. ಇದು ಸ್ಥಾಪನೆಗಾಗಿ ಸಿದ್ಧವಾದಾಗ ನಿಮಗೆ ಸೂಚಿಸಲಾಗುತ್ತದೆ</string>
-  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. ಸ್ಥಾಪನೆಗಾಗಿ ಸಿದ್ಧವಾದಾಗ ನಿಮಗೆ ಸೂಚಿಸಲಾಗುತ್ತಪೆ</string>
   <string name="update_size">ನವೀಕರಣೆ ಗಾತ್ರ: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">ನಿಮ್ಮ ಸಿಸ್ಟಂಗಾಗಿ ಒಂದು ನವೀಕರಣೆಯು ಲಭ್ಯವಿದೆ</string>
   <string name="pending_update_notification">ಸಿಸ್ಟಂ ನವೀಕರಣೆ ಸಿದ್ಧವಾಗಿದೆ</string>

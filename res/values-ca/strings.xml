@@ -9,9 +9,7 @@
   <string name="download_button">Descarrega actualització</string>
   <string name="install_button">Instal·la actualització</string>
   <string name="nothing_found_desc">No hi ha actualitzacions disponibles pel teu sistema durant la darrera verificació, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">Una actualització de Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, està disponible per a la teva tauleta. Seràs notificat quan estigui llesta per instal·lar-la</string>
   <string name="generic_update_desc" product="default">Una actualització de Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, està disponible per al teu telèfon. Seràs notificat quan estigui llesta per instal·lar-la</string>
-  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>.  Seràs notificat quan estigui llesta per instal·lar-la</string>
   <string name="update_size">Mida de l\'actualització: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">Hi ha una actualització disponible pel teu sistema</string>
   <string name="pending_update_notification">L\'actualització del sistema està preparada</string>
@@ -19,4 +17,12 @@
   <string name="update_recovery_title">Actualitza la recuperació de Cyanogen</string>
   <string name="update_recovery_message">ADVERTÈNCIA: L\'actualització de la recuperació de Cyanogen està deshabilitada. Això pot causar problemes al actualitzar el teu dispositiu.\n\nSi us plau, habilita <i>Actualitza la recuperació de Cyanogen</i> a les opcions de desenvolupament.</string>
   <string name="ignore">Ignora</string>
+  <string name="retry_download_button">Reintenta la descàrrega</string>
+  <string name="status_download_available">Hi ha una actualització de Cyanogen OS disponible per al teu dispositiu. Prem el botó per descarregar l\'actualització.</string>
+  <string name="status_update_ready">Una actualització de Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, està preparada per instalar-se al teu dispositiu!</string>
+  <string name="status_failed_download">Una actualització de Cyanogen OS està disponible per al teu dispositiu, però la descàrrega ha fallat. Prem el botó per reintentar.</string>
+  <string name="title_installing_update">S\'està instal·lant una actualització\u2026</string>
+  <string name="update_downloading_notification">S\'està descarregant una actualització del sistema</string>
+  <string name="fota_low_battery_title">Bateria baixa</string>
+  <string name="fota_low_battery_message">El nivell de bateria del dispositiu és massa baix per completar el procés d\'instal·lació. Carrega el teu dispositiu fins al %1$d%% i intenta-ho de nou.</string>
 </resources>

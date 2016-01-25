@@ -9,9 +9,7 @@
   <string name="download_button">Загрузить обновление</string>
   <string name="install_button">Установить обновление</string>
   <string name="nothing_found_desc">Во время последней проверки, <xliff:g id="date" example="4 часа назад">%1$s</xliff:g>, не было обновлений</string>
-  <string name="generic_update_desc" product="tablet">Обновление ОС Cyanogen, версии <xliff:g id="version">%1$s</xliff:g>, доступно для вашей модели планшета. Когда оно будет готово к установке, будет выведено уведомление</string>
   <string name="generic_update_desc" product="default">Обновление ОС Cyanogen, версии <xliff:g id="version">%1$s</xliff:g>, доступно для вашей модели телефона. Когда оно будет готово к установке, будет выведено уведомление</string>
-  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Когда оно будет готово к установке, будет выведено уведомление</string>
   <string name="update_size">Размер обновления: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">Доступно обновление для вашего устройства</string>
   <string name="pending_update_notification">Обновление готово к установке</string>
@@ -19,4 +17,12 @@
   <string name="update_recovery_title">Обновление режима восстановления</string>
   <string name="update_recovery_message">Внимание: перезапись режима восстановления отключена. Это может вызвать проблемы с установкой обновлений.\n\nВключите опцию <i>«Обновлять режим восстановления»</i> в настройках для разработчиков.</string>
   <string name="ignore">Пропустить</string>
+  <string name="retry_download_button">Повторить загрузку</string>
+  <string name="status_download_available">Доступна обновлённая версия ОС Cyanogen. Нажмите кнопку загрузки, чтобы скачать обновление.</string>
+  <string name="status_update_ready">Обновление ОС Cyanogen версии <xliff:g id="version">%1$s </xliff:g> готово к установке на устройство.</string>
+  <string name="status_failed_download">Доступна обновлённая версия ОС Cyanogen, однако при скачивании произошла ошибка. Нажмите кнопку повтора, чтобы перезапустить процесс загрузки.</string>
+  <string name="title_installing_update">Установка обновления\u2026</string>
+  <string name="update_downloading_notification">Скачивание обновления системы</string>
+  <string name="fota_low_battery_title">Низкий заряд батареи</string>
+  <string name="fota_low_battery_message">Уровень заряда аккумулятора слишком мал, чтобы завершить установку. Зарядите устройство хотя бы до %1$d%% и повторите попытку.</string>
 </resources>

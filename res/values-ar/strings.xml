@@ -9,9 +9,7 @@
   <string name="download_button">تحميل التحديث</string>
   <string name="install_button">تثبيت التحديث</string>
   <string name="nothing_found_desc">لا توجد تحديثات متاحة لنظامك في الفحص الأخير، <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">يتوفر تحديث لنظام التشغيل Cyanogen OS <xliff:g id="version">%1$s</xliff:g>, لجهازك اللوحي. سيتم إعلامك عندما يكون جاهزاً للتثبيت</string>
   <string name="generic_update_desc" product="default">يتوفر تحديث لنظام التشغيل Cyanogen OS <xliff:g id="version">%1$s</xliff:g>, لهاتفك. سيتم إعلامك عندما يكون جاهزاً للتثبيت</string>
-  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. سيتم إعلامك عندما يكون جاهزاً للتثبيت</string>
   <string name="update_size">حجم التحديث: <xliff:g id="size">%1$s </xliff:g></string>
   <string name="pending_update_header">يتوفر تحديث لنظامك</string>
   <string name="pending_update_notification">تحديث النظام جاهز</string>

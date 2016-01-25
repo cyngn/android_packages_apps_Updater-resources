@@ -9,9 +9,7 @@
   <string name="download_button">Aktualisierung herunterladen</string>
   <string name="install_button">Update installieren</string>
   <string name="nothing_found_desc">Bei der letzten Prüfung <xliff:g id="date" example="4 hours ago">%1$s</xliff:g> wurde kein Update für Ihr System gefunden</string>
-  <string name="generic_update_desc" product="tablet">Ein Cyanogen OS Update <xliff:g id="version">%1$s</xliff:g> ist für Ihr Tablet verfügbar. Sie werden benachrichtigt, sobald es bereit zur Installation ist</string>
   <string name="generic_update_desc" product="default">Das Cyanogen OS Update <xliff:g id="version">%1$s</xliff:g> ist für Ihr Telefon verfügbar. Sie werden benachrichtigt, sobald es bereit zur Installation ist</string>
-  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Sie werden benachrichtigt, sobald es bereit zur Installation ist</string>
   <string name="update_size">Größe der Aktualisierung: <xliff:g id="size">%1$s </xliff:g></string>
   <string name="pending_update_header">Für Ihr System ist ein Update verfügbar</string>
   <string name="pending_update_notification">Systemupdate ist bereit zur Installation</string>
@@ -19,4 +17,12 @@
   <string name="update_recovery_title">CM-Recovery aktualisieren</string>
   <string name="update_recovery_message">ACHTUNG: Das Aktualisieren der Cyanogen-Recovery ist deaktiviert. Dies kann Probleme beim Aktualisieren Ihres Geräts verursachen.\n\nBitte aktivieren Sie <i>Cyanogen-Recovery aktualisieren</i> in den Entwicklereinstellungen.</string>
   <string name="ignore">Ignorieren</string>
+  <string name="retry_download_button">Herunterladen wiederholen</string>
+  <string name="status_download_available">Eine Aktualisierung von Cyanogen OS ist für Ihr Gerät verfügbar. Tippen Sie die Taste an, um das Update herunterzuladen.</string>
+  <string name="status_update_ready">Eine Aktualisierung von Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, ist bereit für die Installation auf Ihrem Gerät!</string>
+  <string name="status_failed_download">Eine Aktualisierung von Cyanogen OS ist für Ihr Gerät verfügbar, wurde jedoch nicht erfolgreich heruntergeladen. Antippen, um es erneut zu versuchen.</string>
+  <string name="title_installing_update">Installiere Aktualisierung\u2026</string>
+  <string name="update_downloading_notification">Systemaktualisierung wird heruntergeladen</string>
+  <string name="fota_low_battery_title">Akkustand niedrig</string>
+  <string name="fota_low_battery_message">Der Akkustand ist zu niedrig, um die Installation abzuschließen. Laden Sie Ihr Gerät auf %1$d%% und versuchen Sie es erneut.</string>
 </resources>

@@ -9,9 +9,7 @@
   <string name="download_button">Télécharger la mise à jour</string>
   <string name="install_button">Installer la mise à jour</string>
   <string name="nothing_found_desc">Aucune mise à jour disponible lors de la dernière vérification, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">Une mise à jour de Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, est disponible pour votre tablette. Vous serez averti quand elle sera prête pour l\'installation</string>
   <string name="generic_update_desc" product="default">Une mise à jour de Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, est disponible pour votre téléphone. Vous serez averti quand elle sera prête pour l\'installation</string>
-  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Vous serez averti lorsque que la mise à jour sera prête à être installée</string>
   <string name="update_size">Taille de la mise à jour : <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">Une mise à jour est disponible pour votre système</string>
   <string name="pending_update_notification">Mise à jour système prête</string>
@@ -19,4 +17,12 @@
   <string name="update_recovery_title">Mettre à jour le recovery Cyanogen</string>
   <string name="update_recovery_message">ATTENTION : La mise à jour du recovery Cyanogen est désactivée. Cela peut provoquer des problèmes avec la mise à jour de votre appareil.\n\nVeuillez activer <i>Mettre à jour le recovery Cyanogen</i> dans les Options pour les développeurs.</string>
   <string name="ignore">Ignorer</string>
+  <string name="retry_download_button">Retenter le téléchargement</string>
+  <string name="status_download_available">Une mise à jour pour Cyanogen OS est disponible pour votre appareil. Appuyez sur télécharger pour l\'installer.</string>
+  <string name="status_update_ready">Une mise à jour pour Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, est prête à être installée sur votre appareil !</string>
+  <string name="status_failed_download">Une mise à jour pour Cyanogen OS est disponible pour votre appareil, mais le téléchargement a échoué. Appuyez sur le bouton pour réessayer.</string>
+  <string name="title_installing_update">Installation de la mise à jour\u2026</string>
+  <string name="update_downloading_notification">Téléchargement de la mise à jour système en cours</string>
+  <string name="fota_low_battery_title">Batterie faible</string>
+  <string name="fota_low_battery_message">Le niveau de batterie de l\'appareil est trop faible pour terminer l\'installation. Chargez votre appareil à %1$d%% et réessayez.</string>
 </resources>

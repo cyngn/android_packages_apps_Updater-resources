@@ -9,9 +9,7 @@
   <string name="download_button">Descargar actualización</string>
   <string name="install_button">Instalar actualización</string>
   <string name="nothing_found_desc">No hubo actualizaciones disponibles para tu sistema en la última comprobación, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">Una actualización de Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, está disponible para tu tablet. Se te notificará cuando esté lista para ser instalada</string>
   <string name="generic_update_desc" product="default">Una actualización de Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, está disponible para tu teléfono. Se te notificará cuando esté lista para ser instalada</string>
-  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Se te notificará cuando esté lista para ser instalada</string>
   <string name="update_size">Tamaño de la actualización: <xliff:g id="size">%1$s </xliff:g></string>
   <string name="pending_update_header">Existe una actualización disponible para tu sistema</string>
   <string name="pending_update_notification">Actualización del sistema lista para ser instalada</string>

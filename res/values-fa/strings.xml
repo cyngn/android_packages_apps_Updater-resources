@@ -9,9 +9,7 @@
   <string name="download_button">دانلود بروزرسانی</string>
   <string name="install_button">نصب بروزرسانی</string>
   <string name="nothing_found_desc">در آخرین بررسی در <xliff:g id="date" example="4 hours ago">%1$s</xliff:g>، هیچ بروزرسانی برای سیستم شما وجود نداشت</string>
-  <string name="generic_update_desc" product="tablet">یک بروزرسانی سیستم سایانوژن، <xliff:g id="version">%1$s</xliff:g>، برای تبلت شما موجود است. هنگامی که این بروزرسانی برای نصب آماده شد به شما اطلاع می‌دهیم</string>
   <string name="generic_update_desc" product="default">یک بروزرسانی سیستم سایانوژن، <xliff:g id="version">%1$s</xliff:g>، برای گوشی شما موجود است. هنگامی که این بروزرسانی برای نصب آماده شد به شما اطلاع می‌دهیم</string>
-  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. هنگامی که برای نصب آماده شد به شما اطلاع می‌دهیم</string>
   <string name="update_size">حجم بروزرسانی: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">یک بروزرسانی برای سیستم شما موجود است</string>
   <string name="pending_update_notification">بروزرسانی سیستم آماده است</string>

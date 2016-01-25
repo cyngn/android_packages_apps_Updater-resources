@@ -9,9 +9,7 @@
   <string name="download_button">ดาวน์โหลดอัปเดต</string>
   <string name="install_button">ติดตั้งการอัปเดต</string>
   <string name="nothing_found_desc">ไม่มีการอัปเดตใหม่สำหรับระบบของคุณจากการตรวจสอบล่าสุดเมื่อ <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">การอัปเดตรุ่น Cyanogen OS <xliff:g id="version">%1$s</xliff:g> มีให้ใช้บนแท็บเล็ตแล้ว คุณจะได้รับการแจ้งให้ทราบเมื่อการอัปเดตพร้อมให้ติดตั้ง</string>
   <string name="generic_update_desc" product="default">การอัปเดตรุ่น Cyanogen OS <xliff:g id="version">%1$s</xliff:g> มีให้ใช้สำหรับมือถือของคุณแล้ว คุณจะได้รับการแจ้งให้ทราบเมื่อการอัปเดตพร้อมให้ติดตั้ง</string>
-  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g> คุณจะได้รับการแจ้งเตือนเมื่อพร้อมที่จะติดตั้ง</string>
   <string name="update_size">ขนาดของการอัปเดต: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">การอัปเดตพร้อมใช้งานกับอุปกรณ์ของคุณแล้ว</string>
   <string name="pending_update_notification">การอัปเดตระบบพร้อมแล้ว</string>

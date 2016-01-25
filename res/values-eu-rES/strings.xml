@@ -9,9 +9,7 @@
   <string name="download_button">Deskargatu eguneraketa</string>
   <string name="install_button">Instalatu eguneraketa</string>
   <string name="nothing_found_desc">Ez dira zure sistemarako eguneraketarik aurkitu azken bilaketan, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">Cyanogen OS bertsio berri bat dago eskuragarri zure tabletarentzat, <xliff:g id="version">%1$s</xliff:g>. Sistemak instalatzeko prest dagoenean jakinaraziko dizu</string>
   <string name="generic_update_desc" product="default">Cyanogen OS bertsio berri bat dago eskuragarri zure telefonoarentzat, <xliff:g id="version">%1$s</xliff:g>. Instalatzeko prest dagoenean jakinaraziko dizu sistemak</string>
-  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. Instalatzeko prest dagoenean jakinaraziko zaizu</string>
   <string name="update_size">Eguneraketaren tamaina: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">Eguneraketa bat dago eskuragarri zure sistemarentzat</string>
   <string name="pending_update_notification">Sistemaren eguneraketa prest dago</string>
@@ -19,4 +17,12 @@
   <string name="update_recovery_title">Eguneratu Cyanogen berreskuratzea</string>
   <string name="update_recovery_message">KONTUZ: Cyanogen berreskuratzea eguneratzea ezgaituta dago. Honek arazoak sor litzake gailua eguneratzean.\n\n Mesedez gaitu <i>Cyanogen berreskuratzea eguneratzea</i> garapen ezarpenetan.</string>
   <string name="ignore">Ezikusi</string>
+  <string name="retry_download_button">Berriz saiatu deskargatzen</string>
+  <string name="status_download_available">Cyanogen OS eguneraketa bat eskuragarri dago zure gailuarentzat. Sakatu botoia eguneraketa deskargatzeko.</string>
+  <string name="status_update_ready">Cyanogen OS eguneraketa bat, <xliff:g id="version">%1$s</xliff:g>, zure gailuan instalatzeko prest dago!</string>
+  <string name="status_failed_download">Cyanogen OS eguneraketa bat eskuragarri dago zure gailuarentzat, baina huts egin du deskargatzean. Sakatu botoia berriro saiatzeko.</string>
+  <string name="title_installing_update">Eguneraketa instalatzen\u2026</string>
+  <string name="update_downloading_notification">Sistemaren eguneraketa deskargatzen ari da</string>
+  <string name="fota_low_battery_title">Bateria gutxi</string>
+  <string name="fota_low_battery_message">Gailuak bateria gutxiegi du instalazio prozesua burutzeko. Kargatu gailua %1$d%% arte eta berriro saiatu.</string>
 </resources>

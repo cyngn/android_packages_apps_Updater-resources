@@ -9,9 +9,7 @@
   <string name="download_button">Update downloaden</string>
   <string name="install_button">Update installeren</string>
   <string name="nothing_found_desc">Er waren geen updates beschikbaar bij de laatste controle, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="tablet">Een Cyanogen OS-update, <xliff:g id="version">%1$s</xliff:g>, is beschikbaar voor uw tablet. U krijgt een melding wanneer deze geïnstalleerd kan worden</string>
   <string name="generic_update_desc" product="default">Een Cyanogen OS-update, <xliff:g id="version">%1$s</xliff:g>, is beschikbaar voor uw telefoon. U krijgt een melding wanneer deze geïnstalleerd kan worden</string>
-  <string name="full_update_desc"><xliff:g id="upstream_desc">%1$s</xliff:g>. U krijgt een melding wanneer deze geïnstalleerd kan worden</string>
   <string name="update_size">Updategrootte: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">Er is een update beschikbaar voor uw systeem</string>
   <string name="pending_update_notification">Systeemupdate staat klaar</string>
@@ -19,4 +17,6 @@
   <string name="update_recovery_title">Cyanogen-recovery bijwerken</string>
   <string name="update_recovery_message">Let op: Cyanogen-recovery bijwerken is uitgeschakeld. Dit kan problemen veroorzaken met het bijwerken van uw apparaat.\n\nSchakel <i>Cyanogen-recovery bijwerken</i> in in de opties voor ontwikkelaars.</string>
   <string name="ignore">Negeren</string>
+  <string name="title_installing_update">Update installeren\u2026</string>
+  <string name="fota_low_battery_title">Lage accuspanning</string>
 </resources>
