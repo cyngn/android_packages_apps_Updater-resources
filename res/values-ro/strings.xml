@@ -9,10 +9,16 @@
   <string name="download_button">Descarcă actualizare</string>
   <string name="install_button">Instalare actualizare</string>
   <string name="nothing_found_desc">La ultima verificare nu s-au găsit actualizări disponibile pentru sistemul dvs, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
+  <string name="generic_update_desc" product="default">O actualizare CyanogenMod, <xliff:g id="version">%1$s</xliff:g>, este disponibilă pentru telefonul dvs. Veți fi notificat când aceasta este gata de instalat</string>
   <string name="update_size">Mărime actualizare: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">O actualizare este disponibilă pentru sistemul dvs</string>
   <string name="pending_update_notification">Actualizarea de sistem este gata</string>
   <string name="pending_download_notification">Este disponibilă o actualizare de sistem</string>
   <string name="update_recovery_title">Actualizează Cyanogen recovery</string>
+  <string name="update_recovery_message">Avertisment: Actualizarea recovery Cyanogen este dezactivată. Acest lucru poate cauza probleme la actualizarea dispozitivului.\n\nVă rugăm să activați <i>Actualizare recuperare Cyanogen</i> în opțiunile de dezvoltator.</string>
   <string name="ignore">Ignoră</string>
+  <string name="title_installing_update">Se instalează actualizarea\u2026</string>
+  <string name="update_downloading_notification">Se descarcă actualizarea de sistem</string>
+  <string name="fota_low_battery_title">Nivel baterie scăzut</string>
+  <string name="fota_low_battery_message">Nivelul bateriei dispozitivului este prea mic pentru a se finaliza procesul de instalare. Încărcați-vă aparatul la %1$d%% și încercați din nou.</string>
 </resources>
