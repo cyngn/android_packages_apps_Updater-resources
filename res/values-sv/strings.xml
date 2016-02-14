@@ -18,6 +18,7 @@
   <string name="update_recovery_message">VARNING: Uppdatering av Cyanogen Recovery är inaktiverad. Detta kan orsaka problem vid uppdatering av din enhet.\n\nVänligen aktivera<i>Uppdatering av Cyanogen Recovery</i> i utvecklaralternativ.</string>
   <string name="ignore">Ignorera</string>
   <string name="retry_download_button">Försök ladda ned igen</string>
+  <string name="status_download_available">En Cyanogen OS-uppdatering är tillgänglig för din enhet. Tryck på knappen för att ladda ner uppdateringen.</string>
   <string name="status_update_ready">En Cyanogen OS-uppdatering, <xliff:g id="version">%1$s</xliff:g>, är klar för installation på din enhet!</string>
   <string name="status_failed_download">En Cyanogen OS-uppdatering är tillgänglig för din enhet men nedladdningen misslyckades. Tryck på knappen för att försöka igen.</string>
   <string name="title_installing_update">Installerar uppdatering\u2026</string>

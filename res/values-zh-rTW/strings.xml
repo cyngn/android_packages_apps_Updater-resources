@@ -3,18 +3,26 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">系統更新</string>
   <string name="default_header">您的系統已為最新狀態</string>
-  <string name="default_desc">輕觸按鈕即可檢查更新</string>
+  <string name="default_desc">按一下以檢查更新</string>
   <string name="default_button">檢查更新</string>
   <string name="cancel_button">取消更新</string>
   <string name="download_button">下載更新</string>
   <string name="install_button">安裝更新</string>
   <string name="nothing_found_desc">自上次檢查後，暫無適合您系統的更新，<xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="default">您的手機有一個Cyanogen OS 更新<xliff:g id="version">%1$s</xliff:g> 可用。當準備好安裝時將通知您。</string>
+  <string name="generic_update_desc" product="default">您的手機有一個可用的 Cyanogen OS 更新<xliff:g id="version">%1$s</xliff:g>。當準備好安裝時將會通知您。</string>
   <string name="update_size">更新大小：<xliff:g id="size">%1$s </xliff:g></string>
   <string name="pending_update_header">有適合您系統的更新</string>
   <string name="pending_update_notification">系統更新準備就緒</string>
   <string name="pending_download_notification">系統可供更新</string>
   <string name="update_recovery_title">更新 Cyanogen Recovery</string>
-  <string name="update_recovery_message">警告: 更新Cyanogen Recovery處於停用狀態。在更新時可能會發生問題。請您在開發人員選項中 .\n\n 啟用 <i>更新Cyanogen Recovery</i>。</string>
+  <string name="update_recovery_message">警告：更新 Cyanogen Recovery 處於停用狀態。在更新時可能會發生問題。請您在開發人員選項中 。\n\n 啟用 <i>更新Cyanogen Recovery</i>。</string>
   <string name="ignore">忽略</string>
+  <string name="retry_download_button">重試下載</string>
+  <string name="status_download_available">適用於您裝置的 Cyanogen OS 更新可下載。按一下以下載更新。</string>
+  <string name="status_update_ready">Cyanogen OS 更新，<xliff:g id="version">%1$s</xliff:g>，以準備在您的裝置上安裝！</string>
+  <string name="status_failed_download">適用於您裝置的 Cyanogen OS 更新下載失敗。按一下重試。</string>
+  <string name="title_installing_update">正在安裝更新\u2026</string>
+  <string name="update_downloading_notification">正在下載系統更新</string>
+  <string name="fota_low_battery_title">電量不足</string>
+  <string name="fota_low_battery_message">裝置電量不足以完成整個安裝過程。請將裝置充電至 %1$d%% 後然後再試。</string>
 </resources>

@@ -17,4 +17,12 @@
   <string name="update_recovery_title">Opdateer Cyanogen herstel program</string>
   <string name="update_recovery_message">WAARSKUWING: Opdateering van Cyanogen herstel program is afgeskakel. Dit kan probleme veroorsaak met die opdatering van jou toestel.\n\nAktiveer asseblief<i> Opdateer Cyanogen herstel program</i> in Ontwikkelaars opsies.</string>
   <string name="ignore">Ignoreer</string>
+  <string name="retry_download_button">Her probeer aflaai</string>
+  <string name="status_download_available">\'n Cyanogen OS opdatering is beskikbaar vir jou selfoon. Klik op die aflaai knoppie om die opdatering af te laai.</string>
+  <string name="status_update_ready">\'n Cyanogen OS opdatering, <xliff:g id="version">%1$s</xliff:g>, is gereed vir installasie op jou toestel!</string>
+  <string name="status_failed_download">\'n Cyanogen OS opdatering is beskikbaar vir jou toestel, maar kon nie aflaai nie. Druk die her probeer aflaai knoppie.</string>
+  <string name="title_installing_update">Opdatering installasie\u2026</string>
+  <string name="update_downloading_notification">Stelsel opdatering is besig om af te laai</string>
+  <string name="fota_low_battery_title">Lae battery</string>
+  <string name="fota_low_battery_message">Die toestel se battery vlak is te laag om opdatering te installeer. Laai you toestel na %1$d%% en probeer weer.</string>
 </resources>
