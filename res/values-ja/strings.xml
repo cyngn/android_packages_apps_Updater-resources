@@ -9,7 +9,7 @@
   <string name="download_button">アップデートをダウンロード</string>
   <string name="install_button">アップデートをインストール</string>
   <string name="nothing_found_desc">前回の確認（<xliff:g id="date" example="4 hours ago">%1$s</xliff:g>）ではお使いのシステムへの利用可能なアップデートはありませんでした</string>
-  <string name="generic_update_desc" product="default">Cyanogen OSアップデート「<xliff:g id="version">%1$s</xliff:g>」がお使いの携帯電話で利用可能です。インストールの準備ができたら通知します。</string>
+  <string name="generic_update_desc" product="default">Cyanogen OSアップデート[<xliff:g id="version">%1$s</xliff:g>]がお使いの携帯電話で利用可能です。インストールの準備ができたら通知します。</string>
   <string name="update_size">アップデートサイズ: <xliff:g id="size">%1$s</xliff:g></string>
   <string name="pending_update_header">お使いのシステムでアップデートが利用可能です</string>
   <string name="pending_update_notification">システムアップデートの準備ができました</string>
@@ -19,7 +19,7 @@
   <string name="ignore">無視</string>
   <string name="retry_download_button">ダウンロードを再試行</string>
   <string name="status_download_available">Cyanogen OSアップデートがお使いの端末で利用可能です。ボタンを押すとアップデートをダウンロードします。</string>
-  <string name="status_update_ready">Cyanogen OSアップデート「<xliff:g id="version">%1$s</xliff:g>」のインストールの準備ができました。</string>
+  <string name="status_update_ready">Cyanogen OSアップデート[<xliff:g id="version">%1$s</xliff:g>]のインストールの準備ができました。</string>
   <string name="status_failed_download">Cyanogen OSアップデートがお使いの端末で利用可能ですが、ダウンロードできませんでした。ボタンを押すと再試行します。</string>
   <string name="title_installing_update">アップデートをインストール中\u2026</string>
   <string name="update_downloading_notification">システムアップデートをダウンロードしています</string>
