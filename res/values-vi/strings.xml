@@ -26,8 +26,16 @@
   <string name="ignore">Bỏ qua</string>
   <!--Updater-->
   <!-- Button states -->
+  <string name="retry_download_button">Thử tải lại</string>
   <!-- Description states -->
+  <string name="status_download_available">Đã có một bản cập nhật Cyanogen OS cho thiết bị của bạn. Nhấn vào nút để tải bản cập nhật xuống.</string>
+  <string name="status_update_ready">Một bản cập nhật Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, đã sẵn sàng để cài đặt trên thiết bị của bạn!</string>
+  <string name="status_failed_download">Đã có một bản cập nhật Cyanogen OS cho thiết bị của bạn nhưng không thể tải xuống. Nhấn vào nút để thử lại.</string>
   <!-- Title states -->
+  <string name="title_installing_update">Đang cài bản bản cập nhật\u2026</string>
   <!-- Notification -->
+  <string name="update_downloading_notification">Đang tải xuống bản cập nhật hệ thống</string>
   <!-- Low battery -->
+  <string name="fota_low_battery_title">Pin yếu</string>
+  <string name="fota_low_battery_message">Pin của thiết bị quá yếu để hoàn thành quá trình cài đặt. Sạc thiết bị lên %1$d%% và thử lại.</string>
 </resources>
