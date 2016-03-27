@@ -28,6 +28,7 @@
   <!-- Button states -->
   <string name="retry_download_button">Prøv nedlasting på nytt</string>
   <!-- Description states -->
+  <string name="status_update_ready">En Cyanogen OS-oppdatering, <xliff:g id="version">%1$s </xliff:g>, er klar for installasjon på din enhet!</string>
   <!-- Title states -->
   <string name="title_installing_update">Installerer oppdatering\u2026</string>
   <!-- Notification -->

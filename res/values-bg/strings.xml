@@ -21,7 +21,7 @@
   <string name="pending_update_notification">Актуализацията е готова</string>
   <string name="pending_download_notification">Налична актуализация за устройството</string>
   <!-- Update Recovery Dialog -->
-  <string name="update_recovery_title">Актуализирай режима за възстановяване на Cyanogen</string>
+  <string name="update_recovery_title">Актуализирай режима за възстановяване</string>
   <string name="update_recovery_message">ВНИМАНИЕ: Актуализирането на режима за възстановяване на Cyanogen е деактивирано. Това може да предизвика проблеми при актуализиране на устройството ви.\n\nМоля активирайте <i>Актуализация на режима за възстановяване на Cyanogen</i> в раздела Специални Настройки.</string>
   <string name="ignore">Игнорирай</string>
   <!--Updater-->
