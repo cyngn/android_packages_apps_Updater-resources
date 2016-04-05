@@ -12,7 +12,7 @@
   <string name="install_button">安装更新</string>
   <!-- Description states -->
   <string name="nothing_found_desc">自上次检查后您的系统暂无更新， <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="default">您的手机有一个 Cyanogen OS 更新 <xliff:g id="version">%1$s</xliff:g> 可用。当准备好安装时将通知您。</string>
+  <string name="generic_update_desc">您的手机有一个 Cyanogen OS 更新 <xliff:g id="version">%1$s</xliff:g> 可用。当准备好安装时将通知您。</string>
   <!-- Update size -->
   <string name="update_size">更新大小：<xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">更新 Cyanogen 恢复模式</string>
   <string name="update_recovery_message">警告：更新 Cyanogen 恢复模式已被禁用。这可能导致在更新您的设备时遇到问题。\n\n请在开发人员者中启用<i>更新 Cyanogen 恢复系统</i>。</string>
   <string name="ignore">忽略</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">重试下载</string>
   <!-- Description states -->
@@ -38,4 +37,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">电量不足</string>
   <string name="fota_low_battery_message">此设备的电量太低，无法完成安装过程。请给设备充电至 %1$d%% 并再试一次。</string>
+  <!--Updater-->
 </resources>

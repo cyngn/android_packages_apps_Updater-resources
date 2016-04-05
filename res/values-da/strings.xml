@@ -12,7 +12,7 @@
   <string name="install_button">Installér opdatering</string>
   <!-- Description states -->
   <string name="nothing_found_desc">Ingen opdateringer var tilgængelige til dit system ved sidste søgning, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="default">En Cyanogen OS opdatering, <xliff:g id="version">%1$s</xliff:g>, er tilgængelig til din telefon. Du vil blive underrettet, når den er klar til installation</string>
+  <string name="generic_update_desc">En Cyanogen OS opdatering, <xliff:g id="version">%1$s</xliff:g>, er tilgængelig til din telefon. Du vil blive underrettet, når den er klar til installation</string>
   <!-- Update size -->
   <string name="update_size">Opdateringsstørrelse: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">Opdatér Cyanogen-recovery</string>
   <string name="update_recovery_message">ADVARSEL: Opdatering af Cyanogen-recovery er deaktiveret. Dette kan forårsage problemer med opdatering af din enhed.\n\nAktivér venligst <i>Opdatering af Cyanogen-recovery</i> i indstillinger for udviklere.</string>
   <string name="ignore">Ignorér</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">Prøv at downloade igen</string>
   <!-- Description states -->
@@ -38,4 +37,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">Lav batteri</string>
   <string name="fota_low_battery_message">Enhedens batteriniveau er for lavt til at fuldføre installationsprocessen. Oplad din enhed til %1$d%% og prøv igen.</string>
+  <!--Updater-->
 </resources>

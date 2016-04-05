@@ -12,7 +12,7 @@
   <string name="install_button">התקן עדכון</string>
   <!-- Description states -->
   <string name="nothing_found_desc">לא נמצאו עדכונים למערכת שלך בבדיקה האחרונה, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="default">עדכון של Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, זמין כעת עבור מכשירך. הודעה תתקבל כאשר הוא יהיה מוכן להתקנה</string>
+  <string name="generic_update_desc">עדכון של Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, זמין כעת עבור מכשירך. הודעה תתקבל כאשר הוא יהיה מוכן להתקנה</string>
   <!-- Update size -->
   <string name="update_size">גודל עדכון: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -22,9 +22,8 @@
   <string name="pending_download_notification">עדכון מערכת זמין</string>
   <!-- Update Recovery Dialog -->
   <string name="update_recovery_title">עדכן את השחזור של Cyanogen</string>
-  <string name="update_recovery_message">אזהרה: עדכון השחזור של Cyanogen מבוטל. מצב זה עלול לגרום לתקלות בעת עדכון מכשירך.\n\n אנא הפעל את האפשרות <i>עדכן את השחזור של Cyanogen</i> באפשרויות המפתחים.</string>
+  <string name="update_recovery_message">אזהרה: עדכון השחזור של Cyanogen הושבת. מצב זה עלול לגרום לתקלות בעת עדכון מכשירך.\n\n אנא הפעל את האפשרות <i>עדכן את השחזור של Cyanogen</i> באפשרויות המפתחים.</string>
   <string name="ignore">התעלם</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">נסה להוריד מחדש</string>
   <!-- Description states -->
@@ -38,4 +37,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">סוללה חלשה</string>
   <string name="fota_low_battery_message">רמת הסוללה של המכשיר נמוכה מדי מכדי להשלים את תהליך ההתקנה. הטען את המכשיר שלך ל-%1$d%% ונסה שנית.</string>
+  <!--Updater-->
 </resources>

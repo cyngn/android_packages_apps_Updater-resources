@@ -12,7 +12,7 @@
   <string name="install_button">Усталяваць абнаўленне</string>
   <!-- Description states -->
   <string name="nothing_found_desc">Падчас апошняй праверкі <xliff:g id="date" example="4 hours ago">%1$s</xliff:g> не было абнаўленняў</string>
-  <string name="generic_update_desc" product="default">Абнаўленне АС Cyanogen, версіі <xliff:g id="version">%1$s</xliff:g>, даступна для вашай мадэлі тэлефона. Калі яно будзе гатова да ўсталёўкі, адбудзецца паведамленне</string>
+  <string name="generic_update_desc">Абнаўленне АС Cyanogen, версіі <xliff:g id="version">%1$s</xliff:g>, даступна для вашай мадэлі тэлефона. Калі яно будзе гатова да ўсталёўкі, адбудзецца паведамленне</string>
   <!-- Update size -->
   <string name="update_size">Памер абнаўлення: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">Абнаўленне рэжыму аднаўлення</string>
   <string name="update_recovery_message">Увага: перазапіс рэжыму аднаўлення адключаны. Гэта можа выклікаць праблемы з усталёўкай абнаўленняў.\n\nУключыце опцыю <i> абнаўляць рэжым аднаўлення</i> у наладах для распрацоўнікаў.</string>
   <string name="ignore">Прапусціць</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">Паўтарыць спробу</string>
   <!-- Description states -->
@@ -38,4 +37,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">Нізкі узровень батарэі</string>
   <string name="fota_low_battery_message">Узровень зараду замалы каб скончыць усталёўку. Неабходна зарадка хоць да %1$d%%.</string>
+  <!--Updater-->
 </resources>

@@ -12,7 +12,7 @@
   <string name="install_button">ଅପଡେଟ୍ ସଂସ୍ଥାପନ କରନ୍ତୁ</string>
   <!-- Description states -->
   <string name="nothing_found_desc">ଶେଷ ପରୀକ୍ଷିତ ସମୟରେ ଆପଣଙ୍କ ସିଷ୍ଟମ୍‍ ପାଇଁ କୌଣସି ଅଦ୍ୟତନ ଉପଲବ୍ଧ ନାହିଁ, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="default">ଏକ ସିଆନୋଜେନ୍‍ OS ଅଦ୍ୟତନ, <xliff:g id="version">%1$s</xliff:g>, ଆପଣଙ୍କ ଫୋନ୍‍ ପାଇଁ ଉପଲବ୍ଧ ଅଛି। ଯେତେବେ୍ଳେ ଏହା ସଂଥାପନ ପାଇଁ ପ୍ରସ୍ତୁତ ଥିବ, ଆପଣଙ୍କୁ ସୂଚୀତ କରାଯିବ</string>
+  <string name="generic_update_desc">ଏକ ସିଆନୋଜେନ୍‍ OS ଅଦ୍ୟତନ, <xliff:g id="version">%1$s</xliff:g>, ଆପଣଙ୍କ ଫୋନ୍‍ ପାଇଁ ଉପଲବ୍ଧ ଅଛି। ଯେତେବେ୍ଳେ ଏହା ସଂଥାପନ ପାଇଁ ପ୍ରସ୍ତୁତ ଥିବ, ଆପଣଙ୍କୁ ସୂଚୀତ କରାଯିବ</string>
   <!-- Update size -->
   <string name="update_size">ଅଦ୍ୟତନ ଆକାର: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">ସିଆନୋଜେନ୍‍ ରିକଭରି ଅଦ୍ୟତନ କରନ୍ତୁ</string>
   <string name="update_recovery_message">ସତର୍କତା: ସିଆନୋଜେନ୍‍ ରିକଭରି ଅଦ୍ୟତନ ଅଷ୍ମ କରାଯାଇଛି ଆପଣଙ୍କ ଡିଭାଇସ୍‍ ଅଦ୍ୟତନ କରିବାରେ ଏହା କିଛି ସମସ୍ୟା ସୃଷ୍ଟି କରିପାରେ।\n\nଦୟାକରି ସଷମ କରନ୍ତୁ <i>ସିଆନୋଜେନ୍‍ ରିକଭରି ଅଦ୍ୟତନ କରନ୍ତୁ</i> ଡେଭେଲୋପର୍‍ ବିକଳ୍ପରେ।</string>
   <string name="ignore">ଉପେକ୍ଷା</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">ଡାଉନ୍‍ଲୋଡ୍‍ କରିବାକୁ ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ</string>
   <!-- Description states -->
@@ -38,4 +37,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">କମ ବ୍ୟାଟେରୀ</string>
   <string name="fota_low_battery_message">ସଂଥାପନ କ୍ରିୟା ସପୂର୍ଣ୍ଣ କରିବା ପାଇଁ ଡିଭାଇ‌ସ୍‍ର ବ୍ୟାଟେରୀ ସ୍ତର କମ୍‍ ହୋଇଯାଉଛି। %1$D%%କୁ ଆପଣଙ୍କ ଡିଭାଇସ୍‍ ପରିବର୍ତ୍ତନ କର୍ତନ୍ତୁ ଓ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+  <!--Updater-->
 </resources>

@@ -12,7 +12,6 @@
   <!-- Header states -->
   <!-- Notification -->
   <!-- Update Recovery Dialog -->
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">Volver tentar a descarga</string>
   <!-- Description states -->
@@ -26,4 +25,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">Batería baixa</string>
   <string name="fota_low_battery_message">O nivel de batería do seu dispositivo é baixo de mais para completar o proceso de instalación. Cargue o seu dispositivo ata o %1$d%% e vólvao tentar.</string>
+  <!--Updater-->
 </resources>

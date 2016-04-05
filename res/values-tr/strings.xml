@@ -12,7 +12,7 @@
   <string name="install_button">Güncellemeyi yükle</string>
   <!-- Description states -->
   <string name="nothing_found_desc">Son kontrolde (<xliff:g id="date" example="4 hours ago">%1$s</xliff:g>) sisteminiz için güncelleme bulunamadı</string>
-  <string name="generic_update_desc" product="default">Telefonunuz için Cyanogen OS güncellemesi <xliff:g id="version">%1$s</xliff:g> mevcut. Yüklenmeye hazır olduğunda bildirileceksiniz</string>
+  <string name="generic_update_desc">Telefonunuz için Cyanogen OS güncellemesi <xliff:g id="version">%1$s</xliff:g> mevcut. Yüklenmeye hazır olduğunda bildirileceksiniz</string>
   <!-- Update size -->
   <string name="update_size">Güncelleme boyutu: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">Cyanogen kurtarma modunu güncelle</string>
   <string name="update_recovery_message">UYARI: Cyanogen kurtarma modunu güncelleme devre dışı. Bu durum cihazınızı güncellerken sorunlara yol açabilir.\n\nLütfen Geliştirici seçeneklerinden <i>Cyanogen kurtarma modunu güncelle</i> seçeneğini etkinleştirin.</string>
   <string name="ignore">Yoksay</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">İndirmeyi yeniden dene</string>
   <!-- Description states -->
@@ -38,4 +37,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">Düşük pil</string>
   <string name="fota_low_battery_message">Cihazın pil seviyesi yükleme işlemini tamamlamak için çok düşük. Cihazınızı %1$d%% şarj edin ve tekrar deneyin.</string>
+  <!--Updater-->
 </resources>

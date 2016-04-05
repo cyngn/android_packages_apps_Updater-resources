@@ -12,7 +12,7 @@
   <string name="install_button">Εγκατάσταση ενημέρωσης</string>
   <!-- Description states -->
   <string name="nothing_found_desc">Δεν υπήρχαν ενημερώσεις για το σύστημά σας στον τελευταίο έλεγχο, <xliff:g id="date" example="4 ώρες πριν">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="default">Μια ενημερωμένη έκδοση του Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, είναι διαθέσιμη για το τηλέφωνό σας. Θα ειδοποιηθείτε όταν είναι έτοιμη για εγκατάσταση</string>
+  <string name="generic_update_desc">Μια ενημερωμένη έκδοση του Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, είναι διαθέσιμη για το τηλέφωνό σας. Θα ειδοποιηθείτε όταν είναι έτοιμη για εγκατάσταση</string>
   <!-- Update size -->
   <string name="update_size">Μέγεθος ενημέρωσης: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">Ενημέρωση Cyanogen recovery</string>
   <string name="update_recovery_message">ΠΡΟΣΟΧΗ: Η ενημέρωση της Cyanogen recovery είναι απενεργοποιημένη. Αυτό μπορεί να προκαλέσει προβλήματα κατά την ενημέρωση της συσκευής σας.\n\nΠαρακαλούμε ενεργοποιήστε την επιλογή <i>Ενημέρωση Cyanogen recovery</i> στις επιλογές για προγραμματιστές.</string>
   <string name="ignore">Παράβλεψη</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">Επανάληψη λήψης</string>
   <!-- Description states -->
@@ -38,4 +37,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">Χαμηλή μπαταρία</string>
   <string name="fota_low_battery_message">Το επίπεδο της μπαταρίας είναι πολύ χαμηλό για να ολοκληρώσετε τη διαδικασία εγκατάστασης. Φορτίστε τη συσκευή σας έως %1$d%% και προσπαθήστε ξανά.</string>
+  <!--Updater-->
 </resources>

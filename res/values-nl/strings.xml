@@ -12,7 +12,7 @@
   <string name="install_button">Update installeren</string>
   <!-- Description states -->
   <string name="nothing_found_desc">Er waren geen updates beschikbaar bij de laatste controle, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="default">Een Cyanogen OS-update, <xliff:g id="version">%1$s</xliff:g>, is beschikbaar voor uw telefoon. U krijgt een melding wanneer deze geïnstalleerd kan worden</string>
+  <string name="generic_update_desc">Een Cyanogen OS-update, <xliff:g id="version">%1$s</xliff:g>, is beschikbaar voor uw telefoon. U krijgt een melding wanneer deze geïnstalleerd kan worden</string>
   <!-- Update size -->
   <string name="update_size">Updategrootte: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">Cyanogen-recovery bijwerken</string>
   <string name="update_recovery_message">Let op: Cyanogen-recovery bijwerken is uitgeschakeld. Dit kan problemen veroorzaken met het bijwerken van uw apparaat.\n\nSchakel <i>Cyanogen-recovery bijwerken</i> in in de opties voor ontwikkelaars.</string>
   <string name="ignore">Negeren</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">Download opnieuw</string>
   <!-- Description states -->
@@ -38,4 +37,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">Lage accuspanning</string>
   <string name="fota_low_battery_message">Accuspanning van het apparaat is te laag om het installatieproces te voltooien. Laad uw apparaat op tot %1$d%% en probeer het opnieuw.</string>
+  <!--Updater-->
 </resources>

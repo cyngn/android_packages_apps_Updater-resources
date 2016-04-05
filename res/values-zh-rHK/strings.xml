@@ -7,7 +7,7 @@
   <string name="cancel_button">取消更新</string>
   <string name="install_button">安裝更新</string>
   <!-- Description states -->
-  <string name="generic_update_desc" product="default">Cyanogen 運行系統可供手機更新 <xliff:g id="version">%1$s</xliff:g>，準備安裝時將會通知您。</string>
+  <string name="generic_update_desc">Cyanogen 運行系統可供手機更新 <xliff:g id="version">%1$s</xliff:g>，準備安裝時將會通知您。</string>
   <!-- Update size -->
   <string name="update_size">更新大小：<xliff:g id="size">%1$s </xliff:g></string>
   <!-- Header states -->
@@ -18,10 +18,10 @@
   <string name="update_recovery_title">更新 Cyanogen 修復模式</string>
   <string name="update_recovery_message">警告: 更新 Cyanogen 修復模式功能已被停用，在更新裝置時可能會導致發生問題。\n\n請您在開發人員選項中啟用<i>更新 Cyanogen 修復模式</i>。</string>
   <string name="ignore">忽略</string>
-  <!--Updater-->
   <!-- Button states -->
   <!-- Description states -->
   <!-- Title states -->
   <!-- Notification -->
   <!-- Low battery -->
+  <!--Updater-->
 </resources>

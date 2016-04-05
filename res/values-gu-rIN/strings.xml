@@ -12,7 +12,7 @@
   <string name="install_button">અપડેટ ઇંસ્ટોલ કરો</string>
   <!-- Description states -->
   <string name="nothing_found_desc">છેલ્લી તપાસ વખતે તમારી સિસ્ટમ માટે કોઇ અપડેટો ઉપલબ્ધ ન હતા, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="default">તમારા ફોન માટે Cyanogen OS અપડેટ, <xliff:g id="version">%1$s</xliff:g>, ઉપલબ્ધ છે. તે જ્યારે ઇન્સ્ટોલેશન માટે તૈયાર હશે ત્યારે તમને સૂચિત કરાશે</string>
+  <string name="generic_update_desc">તમારા ફોન માટે Cyanogen OS અપડેટ, <xliff:g id="version">%1$s</xliff:g>, ઉપલબ્ધ છે. તે જ્યારે ઇન્સ્ટોલેશન માટે તૈયાર હશે ત્યારે તમને સૂચિત કરાશે</string>
   <!-- Update size -->
   <string name="update_size">અપડેટ સાઇઝ: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">Cyanogen રિકવરી અપડેટ કરો</string>
   <string name="update_recovery_message">ચેતવણી: Cyanogen રિકવરી અપડેટ અક્ષમ કરવામાં આવ્યું છે. આને કારણે તમારી ડિવાઇસ અપડેટ થવામાં સમસ્યાઓ થઈ શકે.\n\nકૃપા કારી સક્ષમ કરો <i>Cyanogen રિકવરી અપડેટ કરો</i> ડેવેલપર વિકલ્પોમાં.</string>
   <string name="ignore">અવગણો</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">ડાઉનલોડ કરવા ફરી પ્રયાસ કરો</string>
   <!-- Description states -->
@@ -38,4 +37,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">લો બેટરી</string>
   <string name="fota_low_battery_message">ઇન્સ્ટોલેશન પ્રક્રિયા પૂર્ણ કરવા માટે ડિવાઇસની બૅટરીનું સ્તર ઘણું ઓછું છે. તમારા ડિવાઇસને %1$d%% સુધી ચાર્જ કરો અને ફરી પ્રયાસ કરો.</string>
+  <!--Updater-->
 </resources>

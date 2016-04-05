@@ -12,7 +12,7 @@
   <string name="install_button">புதுப்பித்தலை நிறுவு</string>
   <!-- Description states -->
   <string name="nothing_found_desc"><xliff:g id="date" example="4 hours ago"> %1$s</xliff:g> கடந்த சரிபார்ப்பில் உங்கள் கணினிக்கு புதுப்பித்தல்கள் எதுவும் கிடைக்கவில்லை</string>
-  <string name="generic_update_desc" product="default">ஒரு Cyanogen OS புதுப்பித்தல், <xliff:g id="version">%1$s</xliff:g> உங்கள் தொலைப்பேசிக்கு கிடைக்கிறது நிறுவலுக்கு அது தயாராக இருக்கும்போது உங்களுக்கு அறிவிக்கப்படும்</string>
+  <string name="generic_update_desc">ஒரு Cyanogen OS புதுப்பித்தல், <xliff:g id="version">%1$s</xliff:g> உங்கள் தொலைப்பேசிக்கு கிடைக்கிறது நிறுவலுக்கு அது தயாராக இருக்கும்போது உங்களுக்கு அறிவிக்கப்படும்</string>
   <!-- Update size -->
   <string name="update_size">புதுப்பித்தல் அளவு: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">Cyanogen மீட்டலை புதுப்பி</string>
   <string name="update_recovery_message">எச்சரிக்கை: Cyanogen மீட்டல் புதுப்பித்தல் முடக்கப்பட்டது. உங்கள் சாதனத்தை புதுப்பிப்பதில் இது பிரச்சனைகளை ஏற்படுத்தலாம். \n\n தயவுசெய்து செயல்படுத்தவும் <i>Cyanogen மீட்டலை புதுப்பி</i> உருவாக்குனர் விருப்பங்களில்.</string>
   <string name="ignore">புறக்கணி</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">பதிவிறக்கத்தை மறுமுயற்சிசெய்</string>
   <!-- Description states -->
@@ -38,4 +37,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">குறைந்த மின்கலம்</string>
   <string name="fota_low_battery_message">நிறுவல் செயல்முறையை நிறைவுசெய்ய முடியாதபடி சாதனத்தின் மின்கலம் நிலை மிகவும் குறைவாக இருக்கிறது உங்கள் சாதனத்தை %1$d%% அளவுக்கு சார்ஜ் செய்து, மீண்டும் முயற்சிக்கவும்.</string>
+  <!--Updater-->
 </resources>

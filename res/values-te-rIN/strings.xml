@@ -12,7 +12,7 @@
   <string name="install_button">నవీకరణను వ్యవస్థాపించుము</string>
   <!-- Description states -->
   <string name="nothing_found_desc">చివరి పరిశీలన <xliff:g id="date" example="4 hours ago">%1$s</xliff:g>లో మీ సిస్టమ్ కొరకు ఎటువంటి నవీకరణలు అందుబాటులో లేవు,</string>
-  <string name="generic_update_desc" product="default">ఒక సయనోజెన్ నవీకరణ,  <xliff:g id="version">%1$s</xliff:g>, మీ ఫోన్ కొరకు అందుబాటులో ఉంది. అది వ్యవస్థాపించబడటానికి సిద్ధంగా ఉన్నప్పుడు మీకు తెలియజేయబడుతుంది</string>
+  <string name="generic_update_desc">ఒక సయనోజెన్ నవీకరణ,  <xliff:g id="version">%1$s</xliff:g>, మీ ఫోన్ కొరకు అందుబాటులో ఉంది. అది వ్యవస్థాపించబడటానికి సిద్ధంగా ఉన్నప్పుడు మీకు తెలియజేయబడుతుంది</string>
   <!-- Update size -->
   <string name="update_size">పరిమాణాన్ని నవీకరించుము: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">సయనోజెన్ పునరుద్ధరణను నవీకరించుము</string>
   <string name="update_recovery_message">హెచ్చ్జరిక: సయనోజెన్ పునరుద్ధరణను నవీకరించడం నిలిపివేయబడింది. ఇది మీ పరికరాన్ని నవీకరించడంలో సమస్యలను సృష్టించవచ్చు.\n\nదయచేసి ప్రారంభించండి <i>సయనోజెన్ పునరుద్ధరణను నవీకరించుము</i> డెవెలపర్ ఐచ్చికాలలో.</string>
   <string name="ignore">విస్మరించు</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">డౌన్‌లోడ్ ను తిరిగి ప్రయత్నించు</string>
   <!-- Description states -->
@@ -38,4 +37,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">తక్కువ బ్యాటరీ</string>
   <string name="fota_low_battery_message">వ్యవస్థీకరణ ప్రక్రియను పూర్తి చేయుటకు పరికర బ్యాటరీ స్థాయి మరీ తక్కువగా ఉంది మీ పరికరంను  %1$d%% కు ఛార్జ్ చేసి, మళ్లీ ప్రయత్నించండి.</string>
+  <!--Updater-->
 </resources>

@@ -12,7 +12,7 @@
   <string name="install_button">আপডেট ইনষ্টল কৰক</string>
   <!-- Description states -->
   <string name="nothing_found_desc">অন্তিম পৰীক্ষা <xliff:g id="date" example="4 hours ago">%1$s</xliff:g> ত আপোনাৰ ছিষ্টেমৰ বাবে কোনো আপডেট উপলব্ধ নাছিল</string>
-  <string name="generic_update_desc" product="default">আপোনাৰ ফোনৰ বাবে এটা Cyanogen OS আপডেট, <xliff:g id="version">%1$s</xliff:g> উপলব্ধ। এইটো যেতিয়া স্থাপনকৰণৰ বাবে সাজু হ\'ব, আপোনাক অধিসূচনা দিয়া হ\'ব</string>
+  <string name="generic_update_desc">আপোনাৰ ফোনৰ বাবে এটা Cyanogen OS আপডেট, <xliff:g id="version">%1$s</xliff:g> উপলব্ধ। এইটো যেতিয়া স্থাপনকৰণৰ বাবে সাজু হ\'ব, আপোনাক অধিসূচনা দিয়া হ\'ব</string>
   <!-- Update size -->
   <string name="update_size">আপডেটৰ আকাৰ: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">Cyanogen পুনৰুদ্ধাৰ আপডেট কৰক</string>
   <string name="update_recovery_message">সকীয়নি: Cyanogen পুনৰুদ্ধাৰ আপডেট অক্ষম কৰা আছে। ই আপোনাৰ ডিভাইচটো আপডেট কৰোতে সমস্যা সৃষ্টি কৰিব পাৰে\ \n\nঅনুগ্ৰহ কৰি সক্ষম কৰক <i>Cyanogen পুনৰুদ্ধাৰ আপডেট কৰক</i> ডেভলপাৰ বিকল্পসমূহত</string>
   <string name="ignore">প্ৰত্যাখ্যান কৰক</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">ডাউনলোড পুনৰ চেষ্টা কৰক</string>
   <!-- Description states -->
@@ -38,4 +37,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">নিম্ন বেটাৰী</string>
   <string name="fota_low_battery_message">স্থাপনকৰণ প্ৰক্ৰিয়া সম্পূৰ্ণ কৰিবলৈ ডিভাইচৰ বেটাৰী স্তৰ খুব নিম্ন। আপোনাৰ ডিভাইচটো %1$d%% লৈ চাৰ্জ কৰক।</string>
+  <!--Updater-->
 </resources>

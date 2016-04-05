@@ -12,7 +12,7 @@
   <string name="install_button">دامه‌زراندنی تازه‌کردنه‌وه‌کان</string>
   <!-- Description states -->
   <string name="nothing_found_desc">هیچ تازه‌کردنه‌وه‌یه‌ک ئاماده‌نه‌بووه‌ بۆتۆ له‌ کۆتا پشکنین <xliff:g id="ڕۆژی" example="٤ کاتژمێر له‌مه‌وپێش">%١$s</xliff:g></string>
-  <string name="generic_update_desc" product="default">تازه‌کردنه‌وه‌ی سیسته‌مه‌که‌ <xliff:g id="version">%١$s</xliff:g>, ئامده‌یه‌ بۆ مۆبایله‌که‌ت ، ئاگادارده‌کرێیته‌وه‌ کاتێک ئاماده‌ی دامه‌زراندن بوو</string>
+  <string name="generic_update_desc">تازه‌کردنه‌وه‌ی سیسته‌مه‌که‌ <xliff:g id="version">%١$s</xliff:g>, ئامده‌یه‌ بۆ مۆبایله‌که‌ت ، ئاگادارده‌کرێیته‌وه‌ کاتێک ئاماده‌ی دامه‌زراندن بوو</string>
   <!-- Update size -->
   <string name="update_size">تازەکردنەوەی قەبارە: <xliff:g id="size">%١$s</xliff:g></string>
   <!-- Header states -->
@@ -23,10 +23,10 @@
   <!-- Update Recovery Dialog -->
   <string name="update_recovery_title">بەڕۆژکردنی ڕیکاڤێری سایانۆجێن</string>
   <string name="ignore">پشتگوێخستن</string>
-  <!--Updater-->
   <!-- Button states -->
   <!-- Description states -->
   <!-- Title states -->
   <!-- Notification -->
   <!-- Low battery -->
+  <!--Updater-->
 </resources>

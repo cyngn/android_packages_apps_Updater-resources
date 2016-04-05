@@ -12,7 +12,7 @@
   <string name="install_button">Инсталиране на актуализацията</string>
   <!-- Description states -->
   <string name="nothing_found_desc">При последната проверка, не бяха намерени актуализации за устройството Ви, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="default">Актуализация на Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, за телефона ви е налице. Ще бъдете уведомени при готовност за инсталирането и</string>
+  <string name="generic_update_desc">Актуализация на Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, за телефона ви е налице. Ще бъдете уведомени при готовност за инсталирането и</string>
   <!-- Update size -->
   <string name="update_size">Размер на актуализацията: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">Актуализирай режима за възстановяване</string>
   <string name="update_recovery_message">ВНИМАНИЕ: Актуализирането на режима за възстановяване на Cyanogen е деактивирано. Това може да предизвика проблеми при актуализиране на устройството ви.\n\nМоля активирайте <i>Актуализация на режима за възстановяване на Cyanogen</i> в раздела Специални Настройки.</string>
   <string name="ignore">Игнорирай</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">Опитай отново да изтеглиш актуализацията</string>
   <!-- Description states -->
@@ -38,4 +37,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">Изтощена батерия</string>
   <string name="fota_low_battery_message">Ниво на батерията е твърде ниско, за да завърши процеса на инсталация. Заредете вашето устройство поне до %1$d%% и опитайте отново.</string>
+  <!--Updater-->
 </resources>

@@ -12,7 +12,7 @@
   <string name="install_button">Install update</string>
   <!-- Description states -->
   <string name="nothing_found_desc">No updates were available for your system at last check, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="default">A Cyanogen OS update, <xliff:g id="version">%1$s</xliff:g>, is available for your phone. You will be notified when it is ready for installation</string>
+  <string name="generic_update_desc">A Cyanogen OS update, <xliff:g id="version">%1$s</xliff:g>, is available for your phone. You will be notified when it is ready for installation</string>
   <!-- Update size -->
   <string name="update_size">Update size: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,10 +24,10 @@
   <string name="update_recovery_title">Update Cyanogen recovery</string>
   <string name="update_recovery_message">WARNING: Update Cyanogen recovery is disabled. This may cause issues with updating your device.\n\nPlease enable <i>Update Cyanogen recovery</i> in Developer options.</string>
   <string name="ignore">Ignore</string>
-  <!--Updater-->
   <!-- Button states -->
   <!-- Description states -->
   <!-- Title states -->
   <!-- Notification -->
   <!-- Low battery -->
+  <!--Updater-->
 </resources>

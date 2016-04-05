@@ -12,7 +12,7 @@
   <string name="install_button">Update installieren</string>
   <!-- Description states -->
   <string name="nothing_found_desc">Bei der letzten Prüfung <xliff:g id="date" example="4 hours ago">%1$s</xliff:g> wurde kein Update für Ihr System gefunden.</string>
-  <string name="generic_update_desc" product="default">Das Cyanogen OS-Update <xliff:g id="version">%1$s</xliff:g> ist für Ihr Telefon verfügbar. Sie werden benachrichtigt, sobald es bereit zur Installation ist.</string>
+  <string name="generic_update_desc">Das Cyanogen OS-Update <xliff:g id="version">%1$s</xliff:g> ist für Ihr Telefon verfügbar. Sie werden benachrichtigt, sobald es bereit zur Installation ist.</string>
   <!-- Update size -->
   <string name="update_size">Größe des Updates: <xliff:g id="size">%1$s </xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">CM-Recovery aktualisieren</string>
   <string name="update_recovery_message">ACHTUNG: Das Aktualisieren der Cyanogen-Recovery ist deaktiviert. Dies kann Probleme beim Aktualisieren Ihres Geräts verursachen.\n\nBitte aktivieren Sie <i>Cyanogen-Recovery aktualisieren</i> in den Entwicklereinstellungen.</string>
   <string name="ignore">Ignorieren</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">Herunterladen wiederholen</string>
   <!-- Description states -->
@@ -37,5 +36,6 @@
   <string name="update_downloading_notification">Systemupdate wird heruntergeladen</string>
   <!-- Low battery -->
   <string name="fota_low_battery_title">Akkustand niedrig</string>
-  <string name="fota_low_battery_message">Der Akkustand ist zu niedrig, um die Installation abzuschließen. Laden Sie Ihr Gerät auf %1$d% % und versuchen Sie es erneut.</string>
+  <string name="fota_low_battery_message">Der Akkustand ist zu niedrig, um die Installation abzuschließen. Laden Sie Ihr Gerät auf %1$d%% und versuchen Sie es erneut.</string>
+  <!--Updater-->
 </resources>

@@ -12,7 +12,7 @@
   <string name="install_button">Instalar l\'anovamientu</string>
   <!-- Description states -->
   <string name="nothing_found_desc">Nun hebo anovamientos disponibles pal to sistema na cabera comprobación, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="default">Esiste un anovamientu de Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, disponible pal to teléfonu. El sistema va avisate cuando tea preparáu pa instalar</string>
+  <string name="generic_update_desc">Esiste un anovamientu de Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, disponible pal to teléfonu. El sistema va avisate cuando tea preparáu pa instalar</string>
   <!-- Update size -->
   <string name="update_size">Tamañu del anovamientu: <xliff:g id="size">%1$s </xliff:g></string>
   <!-- Header states -->
@@ -24,10 +24,10 @@
   <string name="update_recovery_title">Anovar col recovery de Cyanogen</string>
   <string name="update_recovery_message">AVISU: L\'anovamientu del recovery de Cyanogen ta deshabilitáu. Esto pue causar problemes col anovamientu del preséu.\n\nPor favor, habilita <i>Anovar recovery de Cyanogen</i> nes opciones de desendolcu.</string>
   <string name="ignore">Inorar</string>
-  <!--Updater-->
   <!-- Button states -->
   <!-- Description states -->
   <!-- Title states -->
   <!-- Notification -->
   <!-- Low battery -->
+  <!--Updater-->
 </resources>

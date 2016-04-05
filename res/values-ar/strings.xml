@@ -12,7 +12,7 @@
   <string name="install_button">تثبيت التحديث</string>
   <!-- Description states -->
   <string name="nothing_found_desc">لا توجد تحديثات متاحة لنظامك في الفحص الأخير، <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="default">يتوفر تحديث لنظام التشغيل Cyanogen OS <xliff:g id="version">%1$s</xliff:g>, لهاتفك. سيتم إعلامك عندما يكون جاهزاً للتثبيت</string>
+  <string name="generic_update_desc">يتوفر تحديث لنظام التشغيل Cyanogen OS <xliff:g id="version">%1$s</xliff:g>, لهاتفك. سيتم إعلامك عندما يكون جاهزاً للتثبيت</string>
   <!-- Update size -->
   <string name="update_size">حجم التحديث: <xliff:g id="size">%1$s </xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">استعادة تحديث Cyanogen</string>
   <string name="update_recovery_message">تحذير: تم تعطيل استعادة تحديث Cyanogen. قد يسبب ذلك مشكلات في تحديث جهازك.\n\nيُرجى تمكين <i>استعادة تحديث Cyanogen</i> في خيارات المطور.</string>
   <string name="ignore">تجاهل</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">إعادة محاولة التنزيل</string>
   <!-- Description states -->
@@ -38,4 +37,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">البطارية ضعيفة</string>
   <string name="fota_low_battery_message">مستوى بطارية الجهاز منخفض جداً ﻹتمام عملية التثبيت. اشحن جهازك حتى %1$d%% وحاول مرة أخرى.</string>
+  <!--Updater-->
 </resources>

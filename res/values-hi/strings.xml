@@ -12,7 +12,7 @@
   <string name="install_button">अद्यतन को स्थापित करें</string>
   <!-- Description states -->
   <string name="nothing_found_desc">अंतिम जाँच पर आपके सिस्टम के लिए कोई भी अद्यतन उपलब्ध नहीं थे, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="default">एक सियानोजेन प्रचालन तंत्र अद्यतन, <xliff:g id="version">%1$s</xliff:g>, आपके फ़ोन के लिए उपलब्ध है। जब वह स्थापन के लिए तैयार हो, तो आपको सूचित किया जाएगा</string>
+  <string name="generic_update_desc">एक सियानोजेन प्रचालन तंत्र अद्यतन, <xliff:g id="version">%1$s</xliff:g>, आपके फ़ोन के लिए उपलब्ध है। जब वह स्थापन के लिए तैयार हो, तो आपको सूचित किया जाएगा</string>
   <!-- Update size -->
   <string name="update_size">अद्यतन आमाप: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,10 +24,10 @@
   <string name="update_recovery_title">सियानोजेन रिकवरी को अद्यतित करें</string>
   <string name="update_recovery_message">चेतावनी: सियानोजेन रिकवरी अद्यतन को अक्षम किया गया है। इससे आपके उपकरण को अद्यतित करते समय समस्या आ सकती है।\n\nकृपया<i>सियानोजेन रिकवरी को अद्यतन करें</i> को डेवलपर विकल्पों में सक्षम करें।</string>
   <string name="ignore">अनदेखा करें</string>
-  <!--Updater-->
   <!-- Button states -->
   <!-- Description states -->
   <!-- Title states -->
   <!-- Notification -->
   <!-- Low battery -->
+  <!--Updater-->
 </resources>

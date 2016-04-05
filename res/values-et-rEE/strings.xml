@@ -12,7 +12,7 @@
   <string name="install_button">Paigalda uuendus</string>
   <!-- Description states -->
   <string name="nothing_found_desc">Ühtegi uuendust polnud saadaval teie süsteemile viimasel kontrollil, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="default">CyanogenModi uuendus, <xliff:g id="version">%1$s</xliff:g>, on saadaval teie telefonile. Teile teatatakse kui uuendus on installeerimiseks valmis</string>
+  <string name="generic_update_desc">CyanogenModi uuendus, <xliff:g id="version">%1$s</xliff:g>, on saadaval teie telefonile. Teile teatatakse kui uuendus on installeerimiseks valmis</string>
   <!-- Update size -->
   <string name="update_size">Uuendue suurus: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,10 +24,10 @@
   <string name="update_recovery_title">Uuenda Cyanogeni taasterežiimi</string>
   <string name="update_recovery_message">HOIATUS: Cyanogen taastusrežiimi uuendamine on keelatud. See võib põhjustada probleeme seadme uuendusel.\n\nPalun lubage <i>Uuenda Cyanogeni taasterežiimi</i> Arendaja valikustes.</string>
   <string name="ignore">Ignoreeri</string>
-  <!--Updater-->
   <!-- Button states -->
   <!-- Description states -->
   <!-- Title states -->
   <!-- Notification -->
   <!-- Low battery -->
+  <!--Updater-->
 </resources>

@@ -12,7 +12,7 @@
   <string name="install_button">Инсталирај ажурирање</string>
   <!-- Description states -->
   <string name="nothing_found_desc">Нема доступних ажурирања за твој систем у последњој провери, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="default">Cyanogen OS ажурирање, <xliff:g id="version">%1$s</xliff:g>, је доступно за твој телефон. Бићеш обавештен када је спремно за инсталацију</string>
+  <string name="generic_update_desc">Cyanogen OS ажурирање, <xliff:g id="version">%1$s</xliff:g>, је доступно за твој телефон. Бићеш обавештен када је спремно за инсталацију</string>
   <!-- Update size -->
   <string name="update_size">Величина ажурирања: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">Ажурирај Cyanogen опоравак</string>
   <string name="update_recovery_message">УПОЗОРЕЊЕ: Ажурирање Cyanogen опоравка је онемогућено. Ово може створити проблеме са ажурирањем уређаја.\n\nОмогући<i>Ажурирање Cyanogen опоравка</i> у опцијама програмера.</string>
   <string name="ignore">Игнориши</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">Понови преузимање</string>
   <!-- Description states -->
@@ -38,4 +37,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">Слаба батерија</string>
   <string name="fota_low_battery_message">Ниво батерије уређаја је пренизакда би се завршио процес инсталације. Напуни уређај на %1$d%% и пробај поново.</string>
+  <!--Updater-->
 </resources>

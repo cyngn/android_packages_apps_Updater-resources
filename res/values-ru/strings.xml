@@ -12,7 +12,7 @@
   <string name="install_button">Установить обновление</string>
   <!-- Description states -->
   <string name="nothing_found_desc">Во время последней проверки (<xliff:g id="date" example="4 hours ago">%1$s</xliff:g>) не было обновлений</string>
-  <string name="generic_update_desc" product="default">Обновление ОС Cyanogen версии <xliff:g id="version">%1$s</xliff:g> доступно для вашей модели телефона. Когда оно будет готово к установке, появится уведомление</string>
+  <string name="generic_update_desc">Обновление ОС Cyanogen версии <xliff:g id="version">%1$s</xliff:g> доступно для вашей модели телефона. Когда оно будет готово к установке, появится уведомление</string>
   <!-- Update size -->
   <string name="update_size">Размер обновления: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">Обновление режима восстановления</string>
   <string name="update_recovery_message">ВНИМАНИЕ! Перезапись режима восстановления отключена. Это может вызвать проблемы с установкой обновлений на устройстве.\n\nВключите параметр <i>«Обновлять режим восстановления»</i> в настройках для разработчиков.</string>
   <string name="ignore">Пропустить</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">Повторить загрузку</string>
   <!-- Description states -->
@@ -38,4 +37,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">Низкий заряд батареи</string>
   <string name="fota_low_battery_message">Уровень заряда батареи слишком мал, чтобы завершить установку. Зарядите устройство хотя бы до %1$d%% и повторите попытку.</string>
+  <!--Updater-->
 </resources>

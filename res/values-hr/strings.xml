@@ -12,7 +12,7 @@
   <string name="install_button">Instaliraj ažuriranje</string>
   <!-- Description states -->
   <string name="nothing_found_desc">Nisu pronađena ažuriranja za vaš sustav pri zadnjoj potrazi, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="default">CyanogenMod ažuriranje, <xliff:g id="version">%1$s</xliff:g>, je dostupno za vaš telefon. Biti ćete obaviješteni kada je spremno za instalaciju</string>
+  <string name="generic_update_desc">CyanogenMod ažuriranje, <xliff:g id="version">%1$s</xliff:g>, je dostupno za vaš telefon. Biti ćete obaviješteni kada je spremno za instalaciju</string>
   <!-- Update size -->
   <string name="update_size">Veličina ažuriranja: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">Ažuriraj Cyanogen recovery</string>
   <string name="update_recovery_message">UPOZORENJE: Ažuriranje Cyanogen oporavka je onemogućeno. Ovo može stvoriti probleme s ažuriranjem uređaja.\n\nMolimo omogućite <i>Ažuriraj Cyanogen recovery</i> u opcijama za razvoj.</string>
   <string name="ignore">Zanemari</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">Ponovno pokušaj preuzeti</string>
   <!-- Description states -->
@@ -38,4 +37,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">Prazna baterija</string>
   <string name="fota_low_battery_message">Razina baterije uređaja je preniska da bi se završio proces instalacije. Napunite uređaj do %1$d%% i pokušajte ponovo.</string>
+  <!--Updater-->
 </resources>

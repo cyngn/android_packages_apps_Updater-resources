@@ -12,7 +12,7 @@
   <string name="install_button">Instalovat aktualizaci</string>
   <!-- Description states -->
   <string name="nothing_found_desc">Při poslední kontrole (<xliff:g id="date" example="4 hours ago">%1$s</xliff:g>) nebyly nalezeny žádné aktualizace systému</string>
-  <string name="generic_update_desc" product="default">Pro Váš telefon je dostupná aktualizace systému Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>. Až bude aktualizace připravená k instalaci, budete upozorněni</string>
+  <string name="generic_update_desc">Pro Váš telefon je dostupná aktualizace systému Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>. Až bude aktualizace připravená k instalaci, budete upozorněni</string>
   <!-- Update size -->
   <string name="update_size">Velikost aktualizace: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">Aktualizovat Cyanogen recovery</string>
   <string name="update_recovery_message">Varování: Aktualizace Cyanogen recovery je vypnutá. To může způsobit problémy při aktualizaci vašeho zařízení.\n\nProsím zapněte <i>Aktualizaci Cyanogen recovery</i> v Možnostech pro vývojáře.</string>
   <string name="ignore">Ignorovat</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">Opakovat stahování</string>
   <!-- Description states -->
@@ -38,4 +37,8 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">Slabá baterie</string>
   <string name="fota_low_battery_message">Baterie zařízení je příliš vybitá pro dokončení instalačního procesu. Nabijte vaše zařízení minimálně na %1$d%% a zkuste to znovu.</string>
+  <!--Updater-->
+  <string name="checking_update_message">Provádí se kontrola aktualizací</string>
+  <string name="no_connectivity_message">Žádné připojení k síti.</string>
+  <string name="not_enough_space_message">Nedostatek místa pro stáhnutí aktualizace.</string>
 </resources>

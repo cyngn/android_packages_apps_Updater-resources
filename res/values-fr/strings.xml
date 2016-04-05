@@ -12,7 +12,7 @@
   <string name="install_button">Installer la mise à jour</string>
   <!-- Description states -->
   <string name="nothing_found_desc">Aucune mise à jour disponible lors de la dernière vérification, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="default">Une mise à jour de Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, est disponible pour votre téléphone. Vous serez averti quand elle sera prête pour l\'installation</string>
+  <string name="generic_update_desc">Une mise à jour de Cyanogen OS, <xliff:g id="version">%1$s</xliff:g>, est disponible pour votre téléphone. Vous serez averti quand elle sera prête pour l\'installation</string>
   <!-- Update size -->
   <string name="update_size">Taille de la mise à jour : <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">Mettre à jour la récupération Cyanogen</string>
   <string name="update_recovery_message">ATTENTION : La mise à jour du mode récupération Cyanogen est désactivée. Cela peut provoquer des problèmes avec la mise à jour de votre appareil.\n\nVeuillez activer <i>Mettre à jour la récupération Cyanogen</i> dans les Options pour les développeurs.</string>
   <string name="ignore">Ignorer</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">Retenter le téléchargement</string>
   <!-- Description states -->
@@ -38,4 +37,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">Batterie faible</string>
   <string name="fota_low_battery_message">Le niveau de batterie de l\'appareil est trop faible pour terminer l\'installation. Chargez votre appareil à %1$d%% et réessayez.</string>
+  <!--Updater-->
 </resources>

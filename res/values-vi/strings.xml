@@ -12,7 +12,7 @@
   <string name="install_button">Cài đặt bản cập nhật</string>
   <!-- Description states -->
   <string name="nothing_found_desc">Không có phiên bản cập nhật nào cho hệ thống của bạn tại lần kiểm tra cuối, <xliff:g id="date" example="4 hours ago">%1$s</xliff:g></string>
-  <string name="generic_update_desc" product="default">Bản cập nhật hệ điều hành Cyanogen, <xliff:g id="version">%1$s</xliff:g>, đang có sẵn cho điện thoại của bạn. Bạn sẽ được thông báo khi nó đã sẵn sàng để cài đặt</string>
+  <string name="generic_update_desc">Bản cập nhật hệ điều hành Cyanogen, <xliff:g id="version">%1$s</xliff:g>, đang có sẵn cho điện thoại của bạn. Bạn sẽ được thông báo khi nó đã sẵn sàng để cài đặt</string>
   <!-- Update size -->
   <string name="update_size">Kích thước bản cập nhật: <xliff:g id="size">%1$s</xliff:g></string>
   <!-- Header states -->
@@ -24,7 +24,6 @@
   <string name="update_recovery_title">Cập nhật recovery của Cyanogen</string>
   <string name="update_recovery_message">Cảnh báo: Cập nhậ recovery của Cyanogen đã tắt. Điều này có thể gây ra vấn đề với việc cập nhật thiết bị của bạn.\n\nVui lòng kích hoạt <i>Cập nhật recovery của Cyanogen</i> trong các tuỳ chọn Nhà phát triển.</string>
   <string name="ignore">Bỏ qua</string>
-  <!--Updater-->
   <!-- Button states -->
   <string name="retry_download_button">Thử tải lại</string>
   <!-- Description states -->
@@ -38,4 +37,5 @@
   <!-- Low battery -->
   <string name="fota_low_battery_title">Pin yếu</string>
   <string name="fota_low_battery_message">Pin của thiết bị quá yếu để hoàn thành quá trình cài đặt. Sạc thiết bị lên %1$d%% và thử lại.</string>
+  <!--Updater-->
 </resources>
