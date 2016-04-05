@@ -34,8 +34,6 @@
     <string name="update_recovery_message">WARNING: Update Cyanogen recovery is disabled. This may cause issues with updating your device.\n\nPlease enable <i>Update Cyanogen recovery</i> in Developer options.</string>
     <string name="ignore">Ignore</string>
 
-<!--Updater-->
-
     <!-- Button states -->
     <string name="retry_download_button">Retry download</string>
 
@@ -48,9 +46,14 @@
     <string name="title_installing_update">Installing update\u2026</string>
 
     <!-- Notification -->
-    <string name="update_downloading_notification">System update is downloading</string>
+    <string name="update_downloading_notification">Downloading System Update</string>
 
     <!-- Low battery -->
     <string name="fota_low_battery_title">Low battery</string>
     <string name="fota_low_battery_message">The device\'s battery level is too low to complete the installation process. Charge your device to %1$d%% and try again.</string>
+
+    <!--Updater-->
+    <string name="checking_update_message">Currently checking for updates</string>
+    <string name="no_connectivity_message">No network connectivity.</string>
+    <string name="not_enough_space_message">Not enough space for the download.</string>
 </resources>
