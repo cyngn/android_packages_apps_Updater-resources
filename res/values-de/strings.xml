@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">Akkustand niedrig</string>
   <string name="fota_low_battery_message">Der Akkustand ist zu niedrig, um die Installation abzuschließen. Laden Sie Ihr Gerät auf %1$d%% und versuchen Sie es erneut.</string>
   <!--Updater-->
+  <string name="checking_update_message">Nach Updates wird gesucht.</string>
+  <string name="no_connectivity_message">Keine Netzwerkverbindung.</string>
+  <string name="not_enough_space_message">Nicht genügend Speicherplatz für den Download vorhanden.</string>
 </resources>

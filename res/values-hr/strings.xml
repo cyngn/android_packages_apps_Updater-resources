@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">Prazna baterija</string>
   <string name="fota_low_battery_message">Razina baterije uređaja je preniska da bi se završio proces instalacije. Napunite uređaj do %1$d%% i pokušajte ponovo.</string>
   <!--Updater-->
+  <string name="checking_update_message">Trenutno se provjerava ažuriranje</string>
+  <string name="no_connectivity_message">Nema mrežne veze.</string>
+  <string name="not_enough_space_message">Nema dovoljno prostora za preuzimanje.</string>
 </resources>

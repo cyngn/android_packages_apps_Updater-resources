@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">Bateria baixa</string>
   <string name="fota_low_battery_message">El nivell de bateria del dispositiu és massa baix per completar el procés d\'instal·lació. Carrega el teu dispositiu fins al %1$d%% i intenta-ho de nou.</string>
   <!--Updater-->
+  <string name="checking_update_message">Actualment s\'estan cercant actualitzacions</string>
+  <string name="no_connectivity_message">No hi ha connexió de xarxa.</string>
+  <string name="not_enough_space_message">No hi ha prou espai per a la descàrrega.</string>
 </resources>

@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">Lav batteri</string>
   <string name="fota_low_battery_message">Enhedens batteriniveau er for lavt til at fuldføre installationsprocessen. Oplad din enhed til %1$d%% og prøv igen.</string>
   <!--Updater-->
+  <string name="checking_update_message">Søger i øjeblikket efter opdateringer</string>
+  <string name="no_connectivity_message">Ingen netværksforbindelse.</string>
+  <string name="not_enough_space_message">Der er ikke nok plads til at downloade denne fil.</string>
 </resources>

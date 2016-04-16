@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">Niski poziom baterii</string>
   <string name="fota_low_battery_message">Poziom naładowania baterii jest za niski, aby dokończyć proces instalacji. Naładuj baterię co najmniej do poziomu %1$d%% i spróbuj ponownie.</string>
   <!--Updater-->
+  <string name="checking_update_message">Sprawdzanie aktualizacji</string>
+  <string name="no_connectivity_message">Brak połączenia z siecią.</string>
+  <string name="not_enough_space_message">Brak miejsca na pobranie.</string>
 </resources>

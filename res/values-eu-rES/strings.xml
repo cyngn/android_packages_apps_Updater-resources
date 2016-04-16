@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">Bateria gutxi</string>
   <string name="fota_low_battery_message">Gailuak bateria gutxiegi du instalazio prozesua burutzeko. Kargatu gailua %1$d%% arte eta berriro saiatu.</string>
   <!--Updater-->
+  <string name="checking_update_message">Eguneraketen bila ari da orain</string>
+  <string name="no_connectivity_message">Sare konektibitaterik ez.</string>
+  <string name="not_enough_space_message">Ez dago deskargatzeko espazio nahikoa.</string>
 </resources>

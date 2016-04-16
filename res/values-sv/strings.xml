@@ -38,4 +38,6 @@
   <string name="fota_low_battery_title">Låg batterinivå</string>
   <string name="fota_low_battery_message">Enhetens batterinivå är för låg för att slutföra installationsprocessen. Ladda din enhet till %1$d%% och försök igen.</string>
   <!--Updater-->
+  <string name="no_connectivity_message">Ingen nätverksanslutning.</string>
+  <string name="not_enough_space_message">Det finns inte tillräckligt med utrymme för nerladdning.</string>
 </resources>

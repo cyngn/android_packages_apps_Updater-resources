@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">电量不足</string>
   <string name="fota_low_battery_message">此设备的电量太低，无法完成安装过程。请给设备充电至 %1$d%% 并再试一次。</string>
   <!--Updater-->
+  <string name="checking_update_message">正在检查更新</string>
+  <string name="no_connectivity_message">没有网络连接。</string>
+  <string name="not_enough_space_message">没有足够的空间供下载。</string>
 </resources>

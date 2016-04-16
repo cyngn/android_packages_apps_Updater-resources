@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">Akku vähissä</string>
   <string name="fota_low_battery_message">Laitteessa ei ole tarpeeksi virtaa jatkaaksesi asennusta. Lataa laitettasi kunnes varaus on vähintään %1$d%% ja yritä uudelleen.</string>
   <!--Updater-->
+  <string name="checking_update_message">Tarkistetaan päivityksiä</string>
+  <string name="no_connectivity_message">Ei verkkoyhteyttä.</string>
+  <string name="not_enough_space_message">Muisti ei riitä lataukseen.</string>
 </resources>

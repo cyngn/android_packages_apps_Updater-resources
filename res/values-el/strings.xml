@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">Χαμηλή μπαταρία</string>
   <string name="fota_low_battery_message">Το επίπεδο της μπαταρίας είναι πολύ χαμηλό για να ολοκληρώσετε τη διαδικασία εγκατάστασης. Φορτίστε τη συσκευή σας έως %1$d%% και προσπαθήστε ξανά.</string>
   <!--Updater-->
+  <string name="checking_update_message">Γίνεται έλεγχος για ενημερώσεις</string>
+  <string name="no_connectivity_message">Καμία σύνδεση δικτύου.</string>
+  <string name="not_enough_space_message">Δεν υπάρχει αρκετός χώρος για τη λήψη.</string>
 </resources>

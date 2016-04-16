@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">Изтощена батерия</string>
   <string name="fota_low_battery_message">Ниво на батерията е твърде ниско, за да завърши процеса на инсталация. Заредете вашето устройство поне до %1$d%% и опитайте отново.</string>
   <!--Updater-->
+  <string name="checking_update_message">В момента се извършва проверка за актуализации</string>
+  <string name="no_connectivity_message">Няма връзка с мрежата.</string>
+  <string name="not_enough_space_message">Няма достатъчно място за изтегляне.</string>
 </resources>

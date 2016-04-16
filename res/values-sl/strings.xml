@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">Nizko stanje baterije</string>
   <string name="fota_low_battery_message">Stanje baterije je prenizko za dokončanje namestitve. Napolnite napravo do %1$d%% in poskusite znova.</string>
   <!--Updater-->
+  <string name="checking_update_message">Trenutno se preverja za posodobitve</string>
+  <string name="no_connectivity_message">Ni povezave z omrežjem.</string>
+  <string name="not_enough_space_message">Ni dovolj prostora za prenos.</string>
 </resources>

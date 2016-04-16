@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">توك بەك ئاز</string>
   <string name="fota_low_battery_message">ئۈسكىنىڭىزنىڭ باتارىيەسى ئىنتايىن تۆۋەن، ئورنىتىشنى تاماملىيالمايدۇ. ئۈسكىنىڭىزگە %1$d%% توك قاچىلاپ قايتا سىناڭ.</string>
   <!--Updater-->
+  <string name="checking_update_message">يېڭىلانما تەكشۈرىۋاتىدۇ</string>
+  <string name="no_connectivity_message">تورغا ئۇلانمىدى.</string>
+  <string name="not_enough_space_message">چۈشۈرۈشكە يېتەرلىك بوشلۇق يوق.</string>
 </resources>
