@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">Слаба батерија</string>
   <string name="fota_low_battery_message">Ниво батерије уређаја је пренизакда би се завршио процес инсталације. Напуни уређај на %1$d%% и пробај поново.</string>
   <!--Updater-->
+  <string name="checking_update_message">Тренутно проверавам ажурирање</string>
+  <string name="no_connectivity_message">Нема повезивања са мрежом.</string>
+  <string name="not_enough_space_message">Нема довољно простора за преузимање.</string>
 </resources>

@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">Alacsony akkumulátor</string>
   <string name="fota_low_battery_message">Az eszköz töltöttségi szintje túl alacsony a telepítés befejezéséhez. Töltse fel készülékét %1$d%%-ra, és próbálja újra.</string>
   <!--Updater-->
+  <string name="checking_update_message">Jelenleg ellenőrzi a frissítéseket</string>
+  <string name="no_connectivity_message">Nincs internetkapcsolat.</string>
+  <string name="not_enough_space_message">Nincs elegendő tárhely a letöltéshez.</string>
 </resources>
