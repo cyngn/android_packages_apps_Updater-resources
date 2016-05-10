@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">Düşük pil</string>
   <string name="fota_low_battery_message">Cihazın pil seviyesi yükleme işlemini tamamlamak için çok düşük. Cihazınızı %1$d%% şarj edin ve tekrar deneyin.</string>
   <!--Updater-->
+  <string name="checking_update_message">Şu an güncellemeler kontrol ediliyor</string>
+  <string name="no_connectivity_message">Ağ bağlantısı yok.</string>
+  <string name="not_enough_space_message">İndirmek için yeterli alan yok.</string>
 </resources>

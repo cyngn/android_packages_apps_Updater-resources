@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">Baterai lemah</string>
   <string name="fota_low_battery_message">Tingkat baterai perangkat sangat rendah untuk menyelesaikan proses instalasi. Isi daya perangkat Anda hingga %1$d%% dan cobalah lagi.</string>
   <!--Updater-->
+  <string name="checking_update_message">Sedang memeriksa pembaruan</string>
+  <string name="no_connectivity_message">Tidak ada konektivitas jaringan.</string>
+  <string name="not_enough_space_message">Tidak dapat mengunduh karena ruang tidak cukup.</string>
 </resources>

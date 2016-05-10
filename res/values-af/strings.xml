@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">Lae battery</string>
   <string name="fota_low_battery_message">Die toestel se battery vlak is te laag om opdatering te installeer. Laai you toestel na %1$d%% en probeer weer.</string>
   <!--Updater-->
+  <string name="checking_update_message">Kyk tans vir opdaterings</string>
+  <string name="no_connectivity_message">Geen netwerk verbinding.</string>
+  <string name="not_enough_space_message">Nie genoeg stoor spasie vir aflaai nie.</string>
 </resources>

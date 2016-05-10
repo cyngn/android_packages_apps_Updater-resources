@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">Batería baja</string>
   <string name="fota_low_battery_message">El nivel de batería del dispositivo es insuficiente para completar el proceso de instalación. Carga tu dispositivo hasta %1$d%% e inténtalo de nuevo.</string>
   <!--Updater-->
+  <string name="checking_update_message">Comprobando actualizaciones</string>
+  <string name="no_connectivity_message">Sin conectividad de red.</string>
+  <string name="not_enough_space_message">No hay suficiente espacio para la descarga.</string>
 </resources>

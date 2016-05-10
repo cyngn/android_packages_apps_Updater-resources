@@ -25,9 +25,20 @@
   <string name="update_recovery_message">AVISU: L\'anovamientu del recovery de Cyanogen ta deshabilitáu. Esto pue causar problemes col anovamientu del preséu.\n\nPor favor, habilita <i>Anovar recovery de Cyanogen</i> nes opciones de desendolcu.</string>
   <string name="ignore">Inorar</string>
   <!-- Button states -->
+  <string name="retry_download_button">Reintentar descarga</string>
   <!-- Description states -->
+  <string name="status_download_available">Ta disponible un anovamientu de Cyanogen OS pal to preséu. Primi\'l botón pa baxar l\'anovamientu.</string>
+  <string name="status_update_ready">¡Tresnóse un anovamientu de Cyanogen OS (<xliff:g id="version">%1$s</xliff:g>) pa la instalación nel to preséu!</string>
+  <string name="status_failed_download">Ta disponible un anovamientu de Cyanogen OS pal to preséu pero falló al baxase. Primi\'l botón pa reintentar.</string>
   <!-- Title states -->
+  <string name="title_installing_update">Instalando anovamientu\u2026</string>
   <!-- Notification -->
+  <string name="update_downloading_notification">Ta baxándose l\'anovamientu del sistema</string>
   <!-- Low battery -->
+  <string name="fota_low_battery_title">Batería baxa</string>
+  <string name="fota_low_battery_message">La batería del preséu ye mui baxa como pa completar el procesu d\'instalación. Carga\'l to preséu fasta\'l %1$d%% ya inténtalo de nueves.</string>
   <!--Updater-->
+  <string name="checking_update_message">Comprobando anovamientos</string>
+  <string name="no_connectivity_message">Nun hai conexón de rede.</string>
+  <string name="not_enough_space_message">Nun hai espaciu pa la descarga.</string>
 </resources>

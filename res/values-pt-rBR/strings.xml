@@ -38,7 +38,7 @@
   <string name="fota_low_battery_title">Bateria fraca</string>
   <string name="fota_low_battery_message">Nível de bateria do dispositivo é muito baixa para completar o processo de instalação. Carregue seu dispositivo até pelo menos %1$d%% e tente novamente.</string>
   <!--Updater-->
-  <string name="checking_update_message">Procurando por atualizações</string>
+  <string name="checking_update_message">Procurando atualizações</string>
   <string name="no_connectivity_message">Sem conexão de rede.</string>
   <string name="not_enough_space_message">Não há espaço suficiente para a transferência.</string>
 </resources>

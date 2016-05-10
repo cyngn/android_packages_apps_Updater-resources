@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">البطارية ضعيفة</string>
   <string name="fota_low_battery_message">مستوى بطارية الجهاز منخفض جداً ﻹتمام عملية التثبيت. اشحن جهازك حتى %1$d%% وحاول مرة أخرى.</string>
   <!--Updater-->
+  <string name="checking_update_message">التحقق حالياً من وجود تحديثات</string>
+  <string name="no_connectivity_message">لا يوجد اتصال بشبكة الاتصال.</string>
+  <string name="not_enough_space_message">لا توجد مساحة كافية للتنزيل.</string>
 </resources>

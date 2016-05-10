@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">Batterie faible</string>
   <string name="fota_low_battery_message">Le niveau de batterie de l\'appareil est trop faible pour terminer l\'installation. Chargez votre appareil à %1$d%% et réessayez.</string>
   <!--Updater-->
+  <string name="checking_update_message">Vérification des mises à jour en cours</string>
+  <string name="no_connectivity_message">Aucune connexion réseau.</string>
+  <string name="not_enough_space_message">Espace insuffisant pour le téléchargement.</string>
 </resources>

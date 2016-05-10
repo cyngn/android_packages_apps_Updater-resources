@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">Pin yếu</string>
   <string name="fota_low_battery_message">Pin của thiết bị quá yếu để hoàn thành quá trình cài đặt. Sạc thiết bị lên %1$d%% và thử lại.</string>
   <!--Updater-->
+  <string name="checking_update_message">Hiện đang kiểm tra các bản cập nhật</string>
+  <string name="no_connectivity_message">Không có kết nối mạng.</string>
+  <string name="not_enough_space_message">Không đủ dung lượng để tải về.</string>
 </resources>

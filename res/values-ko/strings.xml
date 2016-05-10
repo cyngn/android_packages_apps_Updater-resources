@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">배터리 낮음</string>
   <string name="fota_low_battery_message">기기의 배터리 잔량이 너무 낮아 설치 과정을 완료할 수 없습니다. 배터리를 %1$d%%까지 충전한 후 다시 시도해주세요.</string>
   <!--Updater-->
+  <string name="checking_update_message">업데이트 확인중</string>
+  <string name="no_connectivity_message">네트워크에 연결되지 않음.</string>
+  <string name="not_enough_space_message">업데이트를 다운로드할 공간 충분하지 않음.</string>
 </resources>

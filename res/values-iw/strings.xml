@@ -40,5 +40,5 @@
   <!--Updater-->
   <string name="checking_update_message">בודק כעת אם קיימים עדכונים</string>
   <string name="no_connectivity_message">אין חיבור רשת.</string>
-  <string name="not_enough_space_message">אין די מקום עבור ההורדה.</string>
+  <string name="not_enough_space_message">אין מספיק מקום עבור ההורדה.</string>
 </resources>
