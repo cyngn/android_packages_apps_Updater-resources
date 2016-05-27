@@ -25,7 +25,7 @@
   <string name="update_recovery_message">Let op: Cyanogen-recovery bijwerken is uitgeschakeld. Dit kan problemen veroorzaken met het bijwerken van uw apparaat.\n\nSchakel <i>Cyanogen-recovery bijwerken</i> in in de opties voor ontwikkelaars.</string>
   <string name="ignore">Negeren</string>
   <!-- Button states -->
-  <string name="retry_download_button">Download opnieuw</string>
+  <string name="retry_download_button">Opnieuw downloaden</string>
   <!-- Description states -->
   <string name="status_download_available">Een Cyanogen OS-update is beschikbaar voor uw apparaat. Tik op de knop om de update te downloaden.</string>
   <string name="status_update_ready">Een Cyanogen OS-update, <xliff:g id="version">%1$s</xliff:g>, is klaar om te worden geïnstalleerd op uw apparaat.</string>
