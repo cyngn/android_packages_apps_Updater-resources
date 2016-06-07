@@ -38,4 +38,7 @@
   <string name="fota_low_battery_title">電池残量低下</string>
   <string name="fota_low_battery_message">インストールプロセスを完了するための十分な電池残量がありません。端末を%1$d%%まで充電してから再試行してください。</string>
   <!--Updater-->
+  <string name="checking_update_message">現在アップデートを確認中</string>
+  <string name="no_connectivity_message">ネットワーク接続がありません。</string>
+  <string name="not_enough_space_message">ダウンロードするための空き容量が不足しています。</string>
 </resources>
