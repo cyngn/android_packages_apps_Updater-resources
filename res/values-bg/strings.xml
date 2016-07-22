@@ -25,7 +25,7 @@
   <string name="update_recovery_message">ВНИМАНИЕ: Актуализирането на режима за възстановяване на Cyanogen е деактивирано. Това може да предизвика проблеми при актуализиране на устройството ви.\n\nМоля активирайте <i>Актуализация на режима за възстановяване на Cyanogen</i> в раздела Специални Настройки.</string>
   <string name="ignore">Игнорирай</string>
   <!-- Button states -->
-  <string name="retry_download_button">Опитай отново да изтеглиш актуализацията</string>
+  <string name="retry_download_button">Повторен опит за сваляне</string>
   <!-- Description states -->
   <string name="status_download_available">Има налична актуализация на Cyanogen OS за устройството ви. Докоснете бутона за изтеглянето и.</string>
   <string name="status_update_ready">Cyanogen OS актуализацията, <xliff:g id="version">%1$s</xliff:g>, е готова за инсталиране на устройството ви!</string>
