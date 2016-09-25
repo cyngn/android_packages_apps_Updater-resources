@@ -38,5 +38,7 @@
   <string name="fota_low_battery_title">Lage accuspanning</string>
   <string name="fota_low_battery_message">Accuspanning van het apparaat is te laag om het installatieproces te voltooien. Laad uw apparaat op tot %1$d%% en probeer het opnieuw.</string>
   <!--Updater-->
+  <string name="checking_update_message">Controleren op updates\u2026</string>
   <string name="no_connectivity_message">Geen internetverbinding.</string>
+  <string name="not_enough_space_message">Onvoldoende ruimte voor de download.</string>
 </resources>
